@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Salut!](README.md)
+* [Salut ce faci?!](README.md)
 
 ## Getting Started
 
