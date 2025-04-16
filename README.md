@@ -40,4 +40,4 @@ Folosiți meniul din stânga pentru a naviga prin diferitele secțiuni ale regul
 * 🎭 [Reguli de Roleplay](reguli/reguli-roleplay.md)
 * ⚠️ [Reguli pentru Ilegalități](reguli/reguli-ilegalitati.md)
 * 💰 [Reguli pentru Jafuri](reguli/reguli-jafuri.md)
-* ⚡ [Reguli Speciale](reguli/reguli-speciale.md) 
+* ⚡ [Reguli Speciale](reguli/reguli-speciale.md)
