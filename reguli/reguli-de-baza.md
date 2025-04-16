@@ -1,4 +1,4 @@
-# 📜 Reguli de Bază
+# Reguli de Bază
 
 {% hint style="info" %}
 Aceste reguli reprezintă fundamentul serverului nostru. Respectarea lor este esențială pentru o experiență de joc plăcută pentru toți participanții.
@@ -11,6 +11,7 @@ Roleplay reprezintă simularea vieții reale în joc prin intermediul personajul
 {% endhint %}
 
 ### Ce înseamnă un RP bun:
+
 * Acțiuni realiste și logice
 * Comportament natural
 * Interacțiuni credibile
@@ -23,6 +24,7 @@ Non-Fear reprezintă momentul în care nu simulezi frica în situații care ar t
 {% endhint %}
 
 ### Exemple de NF interzise:
+
 * 🚫 Injuri poliția când ești arestat
 * 🚫 Faci apeluri false către poliție
 * 🚫 Te comporți agresiv când cineva are arma îndreptată spre tine
@@ -37,10 +39,12 @@ Regula de Aur vizează comportamentul persoanelor pe server. Orice încălcare v
 {% endhint %}
 
 ### Sancțiuni:
+
 * Ban permanent sau
 * 2 Warn-uri in-game (în funcție de gravitate)
 
 ### Strict Interzis:
+
 * Discriminarea sub orice formă
 * Jigniri și insulte
 * Comportament toxic
@@ -57,6 +61,7 @@ Power-Gaming reprezintă folosirea unor puteri supranaturale sau neacordarea uno
 {% endhint %}
 
 ### Acțiuni Interzise:
+
 * ❌ Folosirea stației după confiscare
 * ❌ Blocarea căilor de acces pentru avantaj
 * ❌ Folosirea excesivă a comenzilor /me
@@ -68,10 +73,11 @@ Meta-Gaming reprezintă folosirea informațiilor din afara jocului pentru a obț
 {% endhint %}
 
 ### Exemple de META interzise:
+
 * Folosirea informațiilor din Discord în joc
 * Împărtășirea informațiilor OOC (Out of Character)
 * Utilizarea cunoștințelor din viețile anterioare
 
 {% hint style="warning" %}
 **ATENȚIE**: Orice formă de Meta-Gaming va fi sancționată sever!
-{% endhint %} 
+{% endhint %}

@@ -1,4 +1,4 @@
-# 🎭 Reguli de Roleplay
+# Reguli de Roleplay
 
 {% hint style="info" %}
 Aceste reguli definesc comportamentul corect în cadrul roleplay-ului și asigură o experiență imersivă pentru toți jucătorii.
@@ -11,6 +11,7 @@ RDM reprezintă atacarea sau uciderea unui jucător fără un roleplay sau motiv
 {% endhint %}
 
 ### Consecințe:
+
 * Ban temporar sau permanent
 * Pierderea armelor
 * Warn-uri în funcție de gravitate
@@ -22,6 +23,7 @@ VDM reprezintă folosirea unui vehicul ca armă, fără context roleplay.
 {% endhint %}
 
 ### Acțiuni Interzise:
+
 * 🚫 Lovirea intenționată a jucătorilor cu vehiculul
 * 🚫 Staționarea cu vehiculul pe o persoană
 * 🚫 Urmărirea și intimidarea cu vehiculul
@@ -33,6 +35,7 @@ RK reprezintă răzbunarea după respawn. Este interzisă revenirea pentru răzb
 {% endhint %}
 
 ### De Reținut:
+
 * ⏰ Așteptați minim 30 minute
 * 🧠 Personajul nu își amintește circumstanțele morții
 * ❌ Interzisă urmărirea aceluiași jucător
@@ -44,6 +47,7 @@ CK este procesul în care un personaj își pierde definitiv identitatea și inf
 {% endhint %}
 
 ### Situații CK:
+
 * 🔪 Trădarea unei organizații ilegale
 * ⚰️ Moarte roleplay-ată prin /me
 * 👑 Decizie a sindicatului/High STA
@@ -59,6 +63,7 @@ RS reprezintă simularea acțiunilor cu tentă sexuală sau scârboase. Necesit�
 {% endhint %}
 
 ### Important:
+
 * ✅ Cererea acordului este obligatorie
 * 🎫 Poate fi întrerupt prin ticket
 * ⚠️ Tortura nu necesită acord special
@@ -76,6 +81,7 @@ ROB reprezintă jefuirea urmată de uciderea unui jucător.
 {% endhint %}
 
 ### Reguli ROB:
+
 * ✅ Permis doar dacă victima a inițiat conflictul
 * ⚠️ Necesită context roleplay valid
 * ❌ Interzis în zone safe/publice
@@ -85,9 +91,11 @@ ROB reprezintă jefuirea urmată de uciderea unui jucător.
 {% endhint %}
 
 ## Player-Kill (PK)
+
 PK reprezintă omorârea unui jucător care nu își mai aduce aminte de evenimentele anterioare după respawn.
 
 ## Provoking
+
 Provoking reprezintă provocarea sau instigarea la ceartă a unui jucător.
 
-⚠️ **ATENȚIE**: Evitați provocările nejustificate! 
+⚠️ **ATENȚIE**: Evitați provocările nejustificate!

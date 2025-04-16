@@ -1,7 +1,7 @@
 ---
 description: Regulamentul Oficial al Serverului Prime Romania
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+cover: .gitbook/assets/imagine2.png
+coverY: 21
 layout:
   cover:
     visible: true
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🎮 Prime Romania
+# 👋 Prime Romania
 
 {% hint style="info" %}
 Bine ați venit pe serverul Prime Romania! Acest document conține regulamentul oficial și complet al serverului nostru.

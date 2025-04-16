@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Prime Romania](README.md)
+* [👋 Prime Romania](README.md)
 
 ## Reguli
 
