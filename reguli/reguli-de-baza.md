@@ -1,38 +1,77 @@
-# Reguli de Bază
+# 📜 Reguli de Bază
 
-## Roleplay (RP)
-Roleplay reprezintă simularea vieții reale în joc prin intermediul personajului. Toate acțiunile trebuie să fie realiste și să respecte regulile jocului.
+{% hint style="info" %}
+Aceste reguli reprezintă fundamentul serverului nostru. Respectarea lor este esențială pentru o experiență de joc plăcută pentru toți participanții.
+{% endhint %}
 
-⚠️ **ATENȚIE**: Orice interacțiune trebuie să aibă logică și un comportament real.
+## 🎭 Roleplay (RP)
 
-## Non-Fear (NF)
-Non-Fear reprezintă momentul în care nu simulezi frica. Este strict interzis să:
-- Injuri poliția când ești arestat
-- Faci apeluri false către poliție
-- Te comporti agresiv când cineva are arma îndreptată spre tine
-- Încerci să fugi când ești țintă
+{% hint style="success" %}
+Roleplay reprezintă simularea vieții reale în joc prin intermediul personajului tău. Toate acțiunile trebuie să fie realiste și să respecte regulile jocului.
+{% endhint %}
+
+### Ce înseamnă un RP bun:
+* Acțiuni realiste și logice
+* Comportament natural
+* Interacțiuni credibile
+* Respect față de ceilalți jucători
+
+## ⚠️ Non-Fear (NF)
+
+{% hint style="danger" %}
+Non-Fear reprezintă momentul în care nu simulezi frica în situații care ar trebui să provoace teamă. Acest comportament este strict interzis!
+{% endhint %}
+
+### Exemple de NF interzise:
+* 🚫 Injuri poliția când ești arestat
+* 🚫 Faci apeluri false către poliție
+* 🚫 Te comporți agresiv când cineva are arma îndreptată spre tine
+* 🚫 Încerci să fugi când ești țintit
 
 🚫 **IMPORTANT**: Nu aveți voie să luați la mișto sau să aveți aroganțe la adresa organelor de poliție!
 
-## Regula de Aur (RDA)
-Regula de Aur vizează comportamentul persoanelor pe server:
+## 👑 Regula de Aur (RDA)
 
-- Nu se tolerează niciun fel de discriminare
-- Orice jignire, insultă sau injurie va fi sancționată cu:
-  - Ban permanent sau
-  - 2 Warn-uri in-game (în funcție de gravitate)
+{% hint style="warning" %}
+Regula de Aur vizează comportamentul persoanelor pe server. Orice încălcare va fi sancționată sever!
+{% endhint %}
 
-⚠️ **ATENȚIE**: Roleplay-ul de tip sexual/scârbos/divers necesită acordul explicit al tuturor participanților!
+### Sancțiuni:
+* Ban permanent sau
+* 2 Warn-uri in-game (în funcție de gravitate)
 
-## Power-Gaming (PG)
+### Strict Interzis:
+* Discriminarea sub orice formă
+* Jigniri și insulte
+* Comportament toxic
+* Roleplay nepotrivit fără acord
+
+{% hint style="info" %}
+**NOTĂ**: Roleplay-ul de tip sexual/scârbos/divers necesită acordul explicit al tuturor participanților!
+{% endhint %}
+
+## 🎮 Power-Gaming (PG)
+
+{% hint style="danger" %}
 Power-Gaming reprezintă folosirea unor puteri supranaturale sau neacordarea unor șanse egale în roleplay.
+{% endhint %}
 
-Este interzis să:
-- Folosești stația după ce ți-au fost confiscate într-un roleplay
-- Blochezi căile de acces pentru avantaj
-- Folosești comenzi /me în mod excesiv
+### Acțiuni Interzise:
+* ❌ Folosirea stației după confiscare
+* ❌ Blocarea căilor de acces pentru avantaj
+* ❌ Folosirea excesivă a comenzilor /me
 
-## Meta-Gaming (META)
+## 🔍 Meta-Gaming (META)
+
+{% hint style="danger" %}
 Meta-Gaming reprezintă folosirea informațiilor din afara jocului pentru a obține avantaje în joc.
+{% endhint %}
 
-🚫 **STRICT INTERZIS**: Folosirea oricăror informații obținute în afara jocului! 
+### Exemple de META interzise:
+* Folosirea informațiilor din Discord în joc
+* Împărtășirea informațiilor OOC (Out of Character)
+* Utilizarea cunoștințelor din viețile anterioare
+
+{% hint style="warning" %}
+**ATENȚIE**: Orice formă de Meta-Gaming va fi sancționată sever!
+{% endhint %} 
