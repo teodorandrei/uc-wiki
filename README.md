@@ -18,6 +18,20 @@ layout:
     visible: true
 ---
 
+# Prime Romania
+
+Bine ați venit pe serverul Prime Romania! Acest document conține regulamentul complet al serverului nostru.
+
+## Cuprins
+
+* [Introducere](README.md)
+* [Reguli de Bază](reguli/reguli-de-baza.md)
+* [Reguli de Roleplay](reguli/reguli-roleplay.md)
+* [Reguli pentru Ilegalități](reguli/reguli-ilegalitati.md)
+* [Reguli pentru Jafuri](reguli/reguli-jafuri.md)
+* [Reguli Speciale](reguli/reguli-speciale.md)
+* [Sancțiuni](reguli/sanctiuni.md)
+
 # Teo test!
 
 Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
