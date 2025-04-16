@@ -20,4 +20,4 @@ layout:
 
 # Prime Romania
 
-Bine ați venit pe serverul Prime Romania! Acest document conține regulamentul complet al serverului nostru. 
+Bine ați venit pe serverul Prime România! Acest document conține regulamentul complet al serverului nostru.
