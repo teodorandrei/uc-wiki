@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Salut ce faci?!](README.md)
+* [Teo test!](README.md)
 
 ## Getting Started
 
