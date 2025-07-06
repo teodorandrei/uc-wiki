@@ -23,8 +23,8 @@ Comă reprezintă momentul în care ești "leșinat" din diverse motive.
 **STRICT INTERZIS**: 
 {% endhint %}
 
-- Jefuirea în timpul jobului
-- Răpirea în timpul jobului
+- Jefuirea în timpul job-ului
+- Răpirea în timpul job-ului
 - Folosirea mașinii personale pentru job
 - Lipsa uniformei (unde este necesară)
 - Folosirea mașinii de job în scopuri personale
