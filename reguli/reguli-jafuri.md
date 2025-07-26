@@ -63,9 +63,8 @@ Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.
 Aceste condiții sunt specifice pentru Banca Pacific.
 {% endhint %}
 
-- Doar pentru facțiuni de tip Family
-- Minim 5 membri activi
-- Minim 5 polițiști ON DUTY
+- Minim 10 membri activi
+- Minim 10 polițiști ON DUTY
 
 {% hint style="danger" %}
 **IMPORTANT**: Gang-urile nu au voie să jefuiască Banca Pacific!
