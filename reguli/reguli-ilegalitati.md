@@ -14,7 +14,7 @@ Aceste zone sunt considerate publice și pot fi folosite pentru activități ile
 - Străzile principale
 - Benzinăriile
 - Tuning mașini
-- ATM/Bancomate/Bănci
+- ATM/Bănci
 - Autostrăzi
 - Sala de forță BEACH
 
