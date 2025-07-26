@@ -17,7 +17,6 @@ Aceste zone sunt considerate publice și pot fi folosite pentru activități ile
 - ATM/Bancomate/Bănci
 - Autostrăzi
 - Sala de forță BEACH
-- Vama legală
 
 ### Safe Zone
 {% hint style="danger" %}
@@ -27,35 +26,15 @@ Aceste zone sunt strict protejate și nu permit activități ilegale.
 - Spital
 - Showroom
 - Secția de poliție
-- Sediul mecanicilor
 - Locul unde se află joburile
-- Casa Michael
 - Casă Pablo Cayo
 - Interioarele magazinelor
-- Garajele de la bărci
+- Parcări
 - Interiorul frizeriilor
 
 {% hint style="danger" %}
 **ATENȚIE**: Zona ultracentrală (Showroom până la Secția de Poliție) este strict protejată!
 {% endhint %}
-
-## Fake Family/Gang
-{% hint style="info" %}
-Aceste reguli se aplică pentru grupuri de jucători care nu sunt înregistrate ca familii sau gang-uri oficiale.
-{% endhint %}
-
-- Ilegalitățile în grup de 4+ persoane sunt permise doar pentru Familii/Gang-uri
-- Maxim 3 persoane pentru grupuri neoficiale
-
-## Răpiri
-{% hint style="danger" %}
-**IMPORTANT**: Următoarele reguli sunt obligatorii pentru toate răpirile.
-{% endhint %}
-
-- Minim 2 persoane pentru răpire
-- Interzisă răpirea pentru recompensă în bani
-- Interzisă răpirea persoanelor ON DUTY
-- Polițiști pot fi răpiți doar de gang-uri/mafii în zone faimate
 
 ## Scam
 {% hint style="info" %}

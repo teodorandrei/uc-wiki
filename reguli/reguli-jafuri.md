@@ -11,7 +11,7 @@ Acest document conține regulile specifice pentru jafuri pe server. Respectarea 
 Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 {% endhint %}
 
-- Permisă doar între 18:00 - 06:00
+- Permisă doar între 21:00 - 06:00
 - Excepție: zonele deținute prin war-uri (TURFS)
 
 ### Zone Protejate
@@ -24,7 +24,6 @@ Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 - Benzinăriilor
 - Bancomatelor
 - Locațiilor de joburi legale
-- Atelierelor de mecanici
 - Sedii ale poliției
 - Zone de ilegalități
 
@@ -35,6 +34,7 @@ Aceste condiții trebuie respectate pentru orice jaf.
 
 - Jucătorii trebuie să aibă minim 10 ore de joc
 - Interval minim de 60 minute între jafuri la aceeași persoană
+- Nu este permisă jefuirea jucătorilor de haine echipate (excepţie facând accesoriile)
 
 ## Jafuri la Bijuterii/Bănci
 
@@ -43,8 +43,8 @@ Aceste condiții trebuie respectate pentru orice jaf.
 Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.
 {% endhint %}
 
-- Doar pentru facțiuni Gang/Family
-- Minim 5, maxim 20 membri din facțiune
+- Doar pentru facțiuni Family
+- Minim 10, maxim 30 membri din facțiune
 - Fără ostatici
 
 ### Reguli de Fugă
@@ -55,13 +55,6 @@ Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.
 - După părăsirea zonei, obiectivul este evadarea
 - Interzisă rămânerea în apropiere pentru conflict
 
-### Restricții Vehicule
-{% hint style="danger" %}
-**STRICT INTERZIS**: 
-{% endhint %}
-
-- Mașini blindate
-- Elicoptere
 
 ## Jafuri la Banca Pacific
 
@@ -94,7 +87,7 @@ Aceste condiții sunt specifice pentru Banca Pacific.
 Aceste reguli asigură o distribuție echilibrată a echipei.
 {% endhint %}
 
-- Maxim 3 membri pe clădiri
+- Maxim 4 membri pe clădiri
 - Maxim 2 membri în patrulă
 
 ### Interacțiunea cu Medici

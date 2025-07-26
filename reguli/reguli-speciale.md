@@ -26,7 +26,6 @@ Comă reprezintă momentul în care ești "leșinat" din diverse motive.
 - Jefuirea în timpul job-ului
 - Răpirea în timpul job-ului
 - Folosirea mașinii personale pentru job
-- Lipsa uniformei (unde este necesară)
 - Folosirea mașinii de job în scopuri personale
 - Comportament indecent în timpul jobului
 
