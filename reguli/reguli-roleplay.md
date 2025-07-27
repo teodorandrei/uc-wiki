@@ -91,11 +91,13 @@ Drop & Kill reprezintă forțarea unui jucător să arunce pe jos diferite obiec
 
 Reprezintă instigarea organelor de poliție prin metode IC cu scopul de a le atrage atenția și de a provoca urmăriri doar pentru propriul amuzament.
 
+{% hint style="warning" %}
 ### ATENȚIE!
 Orice formă de provocare intenționată a poliției este considerată COP BAIT.
 - Drift sau burnout în fața secției de poliție;
 - Apelurile false către poliție doar pentru divertisment;
 - Trecerea intenționată pe culoarea roșie a semaforului când un echipaj de poliție sau un polițist este în apropiere.
+{% endhint %}
 
 ## ☠️ Player-Kill (PK)
 
