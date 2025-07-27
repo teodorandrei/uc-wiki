@@ -4,7 +4,7 @@
 Acest document conține regulile speciale și excepționale ale serverului. Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 {% endhint %}
 
-## Comă
+## 😵 Comă
 {% hint style="warning" %}
 Comă reprezintă momentul în care ești "leșinat" din diverse motive.
 {% endhint %}
@@ -18,7 +18,7 @@ Comă reprezintă momentul în care ești "leșinat" din diverse motive.
 - Interzisă vorba
 - Poți primi ajutor medical (cu excepția schimburilor de focuri)
 
-## Reguli pentru Joburi Legale
+## 📝 Reguli pentru Joburi Legale
 {% hint style="danger" %}
 **STRICT INTERZIS**: 
 {% endhint %}
@@ -29,7 +29,7 @@ Comă reprezintă momentul în care ești "leșinat" din diverse motive.
 - Folosirea mașinii de job în scopuri personale
 - Comportament indecent în timpul jobului
 
-## Bug Abuse
+## 📤 Bug Abuse
 {% hint style="info" %}
 Bug Abuse reprezintă folosirea vulnerabilităților serverului.
 {% endhint %}
@@ -46,7 +46,7 @@ Bug Abuse reprezintă folosirea vulnerabilităților serverului.
 **ATENȚIE**: Putem oferi WIPE la cont și ID pentru abuzuri grave!
 {% endhint %}
 
-## Chat Global
+## 🗫 Chat Global
 {% hint style="danger" %}
 **STRICT INTERZIS**: 
 {% endhint %}
@@ -55,7 +55,7 @@ Bug Abuse reprezintă folosirea vulnerabilităților serverului.
 - Discuții OOC despre suferințe
 - Publicitate neautorizată
 
-## Trolling
+## 🤡Trolling
 {% hint style="info" %}
 Trolling reprezintă comportamentul care deranjează roleplay-ul altor jucători.
 {% endhint %}
@@ -68,7 +68,7 @@ Trolling reprezintă comportamentul care deranjează roleplay-ul altor jucători
 - Interzisă crearea conflictelor pentru amuzament
 - Interzisă deranjarea acțiunilor roleplay
 
-## Reguli Suplimentare
+## 📜Reguli Suplimentare
 
 ### Reclamații
 {% hint style="warning" %}
