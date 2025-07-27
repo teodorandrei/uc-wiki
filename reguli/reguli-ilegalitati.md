@@ -6,6 +6,10 @@ Acest document conține regulile specifice pentru activitățile ilegale pe serv
 
 ## 🖼️Zone Publice și 🟢Safe Zone
 
+
+![Harta](/public/img/HARTA.png)
+
+
 ### 🖼️Zone Publice
 {% hint style="warning" %}
 Aceste zone sunt considerate publice și pot fi folosite pentru activități ilegale, cu excepția zonelor ultracentrale.
