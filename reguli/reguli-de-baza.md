@@ -19,9 +19,7 @@ Roleplay-ul reprezintă simularea vieții reale în joc prin intermediul persona
 
 ## 🎭 Refuz Roleplay
 
-{% hint style="danger" %}
 Refuzul de a participa sau coopera într-o situație de roleplay este strict interzis. Aceasta presupune acțiuni precum ignorarea comenzilor primite într-un roleplay, refuzul de a răspunde la inițiative RP legitime sau pur și simplu evitarea intenționată a implicării.
-{% endhint %}
 
 ### De reținut:
 
@@ -29,22 +27,16 @@ Refuzul de a participa sau coopera într-o situație de roleplay este strict int
 
 ## 👤 In-Character (IC)
 
-{% hint style="danger" %}
 Reprezintă comportamentul și acțiunile personajului în joc.
-{% endhint %}
 
 ## 🗨️ Out of Character (OOC)
 
-{% hint style="danger" %}
 Reprezintă comportamentul și acțiunile jucătorului, în afara personajului.
-{% endhint %}
 
 
 ## ⚠️ Non-Fear (NF)
 
-{% hint style="danger" %}
 Non-Fear reprezintă momentul în care nu simulezi frica în situații care ar trebui să provoace teamă. Acest comportament este strict interzis!
-{% endhint %}
 
 ### Exemple de NF interzise:
 
@@ -56,11 +48,7 @@ Non-Fear reprezintă momentul în care nu simulezi frica în situații care ar t
 
 ## 👑 Regula de Aur (RDA)
 
-{% hint style="warning" %}
 Regula de Aur vizează comportamentul jucătorilor pe server. Orice încălcare va fi sancționată sever!
-{% endhint %}
-
-Test
 
 ### Sancțiuni:
 
@@ -71,7 +59,8 @@ Test
 * Discriminarea sub orice formă;
 * Jigniri și insulte;
 * Comportament toxic;
-* Roleplay nepotrivit fără acord.
+* Roleplay nepotrivit fără acord;
+* Comportament de bombardier (Instiga la cearta).
 
 {% hint style="info" %}
 **NOTĂ**: Roleplay-ul de tip sexual/scârbos/divers necesită acordul explicit al tuturor participanților!
@@ -79,9 +68,7 @@ Test
 
 ## 🎮 Power-Gaming (PG)
 
-{% hint style="danger" %}
 Power-Gaming reprezintă folosirea unor puteri supranaturale sau neacordarea unor șanse egale în roleplay.
-{% endhint %}
 
 ### Acțiuni Interzise:
 
@@ -91,9 +78,7 @@ Power-Gaming reprezintă folosirea unor puteri supranaturale sau neacordarea uno
 
 ## 🔍 Meta-Gaming (META)
 
-{% hint style="danger" %}
 Meta-Gaming reprezintă folosirea informațiilor din afara jocului pentru a obține avantaje în joc.
-{% endhint %}
 
 ### Exemple de META interzise:
 
@@ -101,11 +86,13 @@ Meta-Gaming reprezintă folosirea informațiilor din afara jocului pentru a obț
 * Divulgarea sau folosirea informațiilor OOC (Out of Character) în scopuri IC (In Character);
 * Aplicarea cunoștințelor din viețile anterioare ale personajului în prezentul roleplay-ului.
 
-{% hint style="warning" %}
 **ATENȚIE**: Orice formă de Meta-Gaming va fi sancționată sever!
-{% endhint %}
 
 ## 💬 Mixing
-{% hint style="danger" %}
+
 Mixing-ul reprezintă transmiterea informațiilor OOC (Out of Character) cu cele IC (In-Character) sau invers.
-{% endhint %}
+
+## 💬 Mixing Critic
+
+Acesta se sancționează cu 2 warn-uri, în funcție de gravitatea situației.
+

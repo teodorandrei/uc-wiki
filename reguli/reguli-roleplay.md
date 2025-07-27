@@ -83,11 +83,11 @@ Kill & Rob reprezintă uciderea unui jucător și, ulterior, jefuirea acestuia.
 **SFAT**: Întotdeauna oferiți șansa de cooperare înainte de a recurge la violență!
 {% endhint %}
 
-## Drop & Kill 
+## 📦 Drop & Kill 
 
 Drop & Kill reprezintă forțarea unui jucător să arunce pe jos diferite obiecte și, ulterior, uciderea acestuia.
 
-## Cop-Bait
+## 🚓 Cop-Bait (CB)
 
 Reprezintă instigarea organelor de poliție prin metode IC cu scopul de a le atrage atenția și de a provoca urmăriri doar pentru propriul amuzament.
 
@@ -97,11 +97,11 @@ Orice formă de provocare intenționată a poliției este considerată COP BAIT.
 - Apelurile false către poliție doar pentru divertisment;
 - Trecerea intenționată pe culoarea roșie a semaforului când un echipaj de poliție sau un polițist este în apropiere.
 
-## Player-Kill (PK)
+## ☠️ Player-Kill (PK)
 
 Player-Kill reprezintă omorârea unui jucător care nu își mai aduce aminte de evenimentele anterioare după respawn.
 
-## Provoking
+## 🗣️ Provoking (PR)
 
 Provoking reprezintă provocarea sau instigarea la ceartă a unui jucător.
 
