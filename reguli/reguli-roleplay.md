@@ -6,9 +6,7 @@ Aceste reguli definesc comportamentul corect în cadrul roleplay-ului și asigur
 
 ## 💀 Random Deathmatch (RDM)
 
-{% hint style="danger" %}
 Random Deathmatch reprezintă atacarea sau uciderea unui jucător fără un minim de roleplay sau motiv întemeiat. Acest comportament este strict interzis!
-{% endhint %}
 
 ### Consecințe:
 
@@ -18,9 +16,7 @@ Random Deathmatch reprezintă atacarea sau uciderea unui jucător fără un mini
 
 ## 🚗 Vehicle Deathmatch (VDM)
 
-{% hint style="danger" %}
 Vehicle Deathmatch reprezintă lovirea unei persoane cu un autovehicul fără un scop roleplay.
-{% endhint %}
 
 ### Acțiuni Interzise:
 
@@ -30,9 +26,7 @@ Vehicle Deathmatch reprezintă lovirea unei persoane cu un autovehicul fără un
 
 ## ⚔️ Revenge Kill (RK)
 
-{% hint style="warning" %}
 Revenge Kill reprezintă momentul când un jucător îl omoară pe altul, iar după ce primește respawn, se întoarce după același jucător cu scopul de a-l omorî în mai puțin de jumătate de oră.
-{% endhint %}
 
 ### De Reținut:
 
@@ -42,9 +36,7 @@ Revenge Kill reprezintă momentul când un jucător îl omoară pe altul, iar du
 
 ## 💀 Character Kill (CK)
 
-{% hint style="info" %}
 Character Kill este un proces în care un personaj își pierde identitatea și toată influența acumulată pe server.
-{% endhint %}
 
 ### Situații CK:
 
@@ -57,9 +49,7 @@ Character Kill este un proces în care un personaj își pierde identitatea și 
 
 ## 🔞 Roleplay Scârbos (RS)
 
-{% hint style="warning" %}
 Roleplay-ul Scârbos reprezintă simularea acțiunilor cu tentă sexuală sau scârboase. Necesită acordul explicit al tuturor participanților!
-{% endhint %}
 
 ### Important:
 
@@ -68,15 +58,11 @@ Roleplay-ul Scârbos reprezintă simularea acțiunilor cu tentă sexuală sau sc
 
 ## 🚙 Car-Ram (CR)
 
-{% hint style="danger" %}
 Car-Ram reprezintă momentul în care doi sau mai mulți jucători se lovesc cu mașinile încontinuu, pentru propriul amuzament. 
-{% endhint %}
 
 ## 💰 Rob & Kill 
 
-{% hint style="warning" %}
 Rob & Kill reprezintă jefuirea unui jucător și, ulterior, omorârea acestuia.
-{% endhint %}
 
 ### Reguli:
 
@@ -86,9 +72,7 @@ Rob & Kill reprezintă jefuirea unui jucător și, ulterior, omorârea acestuia.
 
 ## 🔫 Kill & Rob 
 
-{% hint style="warning" %}
 Kill & Rob reprezintă uciderea unui jucător și, ulterior, jefuirea acestuia.
-{% endhint %}
 
 ### Reguli:
 
@@ -101,15 +85,11 @@ Kill & Rob reprezintă uciderea unui jucător și, ulterior, jefuirea acestuia.
 
 ## Drop & Kill 
 
-{% hint style="warning" %}
 Drop & Kill reprezintă forțarea unui jucător să arunce pe jos diferite obiecte și, ulterior, uciderea acestuia.
-{% endhint %}
 
 ## Cop-Bait
 
-{% hint style="warning" %}
 Reprezintă instigarea organelor de poliție prin metode IC cu scopul de a le atrage atenția și de a provoca urmăriri doar pentru propriul amuzament.
-{% endhint %}
 
 ### ATENȚIE!
 Orice formă de provocare intenționată a poliției este considerată COP BAIT.
@@ -119,14 +99,10 @@ Orice formă de provocare intenționată a poliției este considerată COP BAIT.
 
 ## Player-Kill (PK)
 
-{% hint style="warning" %}
 Player-Kill reprezintă omorârea unui jucător care nu își mai aduce aminte de evenimentele anterioare după respawn.
-{% endhint %}
 
 ## Provoking
 
-{% hint style="warning" %}
 Provoking reprezintă provocarea sau instigarea la ceartă a unui jucător.
-{% endhint %}
 
 ⚠️ **ATENȚIE**: Evitați provocările nejustificate!
