@@ -9,7 +9,7 @@
 * [Reguli pentru Ilegalități](reguli/reguli-ilegalitati.md)
 * [Reguli pentru Jafuri](reguli/reguli-jafuri.md)
 * [Reguli Speciale](reguli/reguli-speciale.md)
-* [Regulament War](reguli/reguament-war.md)
+* [Regulament War](reguli/regulament-war.md)
 
 ## De adaugat
 * [Incepatori](incepatori/inceput.md)
