@@ -60,6 +60,8 @@ Non-Fear reprezintă momentul în care nu simulezi frica în situații care ar t
 Regula de Aur vizează comportamentul jucătorilor pe server. Orice încălcare va fi sancționată sever!
 {% endhint %}
 
+Test
+
 ### Sancțiuni:
 
 * Ban permanent sau 2 warn-uri In-Game (în funcție de gravitate)
