@@ -1,4 +1,4 @@
-# Reguli pentru Jafuri
+# ❗Reguli pentru Jafuri
 
 {% hint style="info" %}
 Acest document conține regulile specifice pentru jafuri pe server. Respectarea acestor reguli este obligatorie pentru toți jucătorii.
@@ -6,7 +6,7 @@ Acest document conține regulile specifice pentru jafuri pe server. Respectarea 
 
 ## Jefuirea Jucătorilor
 
-### Interval de Timp
+### 🕓Interval de Timp
 {% hint style="warning" %}
 Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 {% endhint %}
@@ -14,7 +14,7 @@ Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 - Permisă doar între 21:00 - 06:00
 - Excepție: zonele deținute prin war-uri (TURFS)
 
-### Zone Protejate
+### ⛔Zone Protejate
 {% hint style="danger" %}
 **STRICT INTERZIS** în proximitatea:
 {% endhint %}
@@ -36,7 +36,7 @@ Aceste condiții trebuie respectate pentru orice jaf.
 - Interval minim de 60 minute între jafuri la aceeași persoană
 - Nu este permisă jefuirea jucătorilor de haine echipate (excepţie facând accesoriile)
 
-## Jafuri la Bijuterii/Bănci
+## 🔪Jafuri la Bijuterii/Bănci
 
 ### Condiții
 {% hint style="warning" %}
@@ -56,7 +56,7 @@ Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.
 - Interzisă rămânerea în apropiere pentru conflict
 
 
-## Jafuri la Banca Pacific
+## 🏦Jafuri la Banca Pacific
 
 ### Condiții Speciale
 {% hint style="warning" %}
@@ -70,7 +70,7 @@ Aceste condiții sunt specifice pentru Banca Pacific.
 **IMPORTANT**: Gang-urile nu au voie să jefuiască Banca Pacific!
 {% endhint %}
 
-## Reguli Generale pentru Jafuri
+## 🗒️Reguli Generale pentru Jafuri
 
 ### Interdicții
 {% hint style="danger" %}
@@ -102,9 +102,9 @@ Aceste reguli se aplică pentru interacțiunea cu medicii în timpul jafului.
 **OBLIGATORIU**: Echipament diferit față de poliție/alte familii
 {% endhint %}
 
-## Restricții Speciale
+## 🛑Restricții Speciale
 
-### Pentru Medici
+### ⚕️Pentru Medici
 {% hint style="warning" %}
 Aceste reguli se aplică specific pentru medici în timpul jafului.
 {% endhint %}
@@ -112,7 +112,7 @@ Aceste reguli se aplică specific pentru medici în timpul jafului.
 - Interzis revive în timpul jafului
 - Permis doar după finalizarea jafului
 
-### Pentru Mafioți
+### 🥷🏽Pentru Mafioți
 {% hint style="danger" %}
 **IMPORTANT**: Aceste reguli se aplică specific pentru mafioți.
 {% endhint %}

@@ -1,12 +1,12 @@
-# Reguli pentru Ilegalități
+# ❗Reguli pentru Ilegalități
 
 {% hint style="info" %}
 Acest document conține regulile specifice pentru activitățile ilegale pe server. Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 {% endhint %}
 
-## Zone Publice și Safe Zone
+## 🖼️Zone Publice și 🟢Safe Zone
 
-### Zone Publice
+### 🖼️Zone Publice
 {% hint style="warning" %}
 Aceste zone sunt considerate publice și pot fi folosite pentru activități ilegale, cu excepția zonelor ultracentrale.
 {% endhint %}
@@ -18,7 +18,7 @@ Aceste zone sunt considerate publice și pot fi folosite pentru activități ile
 - Autostrăzi
 - Sala de forță BEACH
 
-### Safe Zone
+### 🟢Safe Zone
 {% hint style="danger" %}
 Aceste zone sunt strict protejate și nu permit activități ilegale.
 {% endhint %}
@@ -36,7 +36,7 @@ Aceste zone sunt strict protejate și nu permit activități ilegale.
 **ATENȚIE**: Zona ultracentrală (Showroom până la Secția de Poliție) este strict protejată!
 {% endhint %}
 
-## Scam
+## 🔴Scam
 {% hint style="info" %}
 Reprezintă atunci când o persoană încearcă prin fel și fel de tertipuri să păcălească un jucător, să apeleze la înșelăciune pentru a dobândi anumite bunuri sau bani.
 {% endhint %}
@@ -51,7 +51,7 @@ Reprezintă atunci când o persoană încearcă prin fel și fel de tertipuri s�
 
 ### Ce NU se consideră Scam:
 {% hint style="success" %}
-Aceste situații sunt permise și nu se consideră scam.
+Aceste situații sunt permise și nu se consideră **scam**.
 {% endhint %}
 
 - Împrumuturi între prieteni;
@@ -62,19 +62,19 @@ Aceste situații sunt permise și nu se consideră scam.
 **ATENȚIE**: Toate tranzacțiile trebuie făcute cu banii din portofel, după retragere!
 {% endhint %}
 
-## In-Transfer
+## 〰️In-Transfer
 {% hint style="info" %}
 Transferul se acordă în funcție de numărul de zile pe care un jucător le-a acumulat în facțiune.
 {% endhint %}
 
-- 1-7 zile în facțiune = 14 zile transfer
-- 7-14 zile în facțiune = 7 zile transfer
-- 14-30 zile în facțiune = 3 zile transfer
-- Peste 30 zile = 0 zile transfer
+- 1-7 zile în facțiune = **14 zile transfer**
+- 7-14 zile în facțiune = **7 zile transfer**
+- 14-30 zile în facțiune = **3 zile transfer**
+- Peste 30 zile = **0 zile transfer**
 
 {% hint style="danger" %}
 **IMPORTANT**: 
 {% endhint %}
 
-- Ieșirea de pe Discord pentru a scăpa de transfer = SCAM
-- Joaca pe alt cont pentru a evita transferul = BAN PERMANENT 
+- Ieșirea de pe Discord pentru a scăpa de transfer = **SCAM**
+- Joaca pe alt cont pentru a evita transferul = **BAN PERMANENT**
