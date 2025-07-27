@@ -6,6 +6,10 @@ Acest document conține regulile specifice pentru activitățile ilegale pe serv
 
 ## 🖼️Zone Publice și 🟢Safe Zone
 
+{% hint style="warning" %}
+![HARTA](/public/img/E:\PRIME ROMANIA WIKI\primeromania\primeromania\public\img\imagine harta zone publice-rau famate.png)
+{% endhint %}
+
 ### 🖼️Zone Publice
 {% hint style="warning" %}
 Aceste zone sunt considerate publice și pot fi folosite pentru activități ilegale, cu excepția zonelor ultracentrale.
