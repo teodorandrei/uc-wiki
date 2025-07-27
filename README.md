@@ -42,7 +42,7 @@ Folosiți meniul din stânga pentru a naviga prin diferitele secțiuni ale regul
 * 💰 [Reguli pentru Jafuri](reguli/reguli-jafuri.md)
 * ⚡ [Reguli Speciale](reguli/reguli-speciale.md)
 
-## ![Logo](https://image.gta5prime.ro/logos/AlbWiki.png) Multumiri speciale
+## <img src="https://image.gta5prime.ro/logos/AlbWiki.png" alt="Logo" width="30"/> Multumiri speciale
 
 <a href="https://github.com/teodorandrei/primeromania/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=teodorandrei/primeromania" />
