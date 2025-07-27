@@ -25,7 +25,7 @@ Non-Fear reprezintă momentul în care nu simulezi frica în situații care ar t
 
 ### Exemple de NF interzise:
 
-* 🚫 Injuri poliția când ești arestat
+* 🚫 Înjuri poliția când ești arestat
 * 🚫 Faci apeluri false către poliție
 * 🚫 Te comporți agresiv când cineva are arma îndreptată spre tine
 * 🚫 Încerci să fugi când ești țintit
