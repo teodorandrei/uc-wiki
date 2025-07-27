@@ -9,7 +9,7 @@ Fiecare facțiune are obligația de a purta echipamentul în culoarea specifică
 Pentru a evita eventuale erori vizuale, se recomandă utilizarea unei veste și a unei perechi de pantaloni în nuanța respectivă.
 {% endhint %}
 
-## Reguli:
+## Reguli: 
 
 * Nu aveți voie să ieșiți din turf odată intrați, pentru a vă feri de gloanțe. Ieșirea este permisă doar dacă nu există altă cale către o nouă poziție.
 * Nu aveți voie să purtați cască și mască la war.
