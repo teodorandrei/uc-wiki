@@ -11,9 +11,9 @@ Pentru a evita eventuale erori vizuale, se recomandă utilizarea unei veste și 
 
 ## Reguli: 
 
-- * Nu aveți voie să ieșiți din turf odată intrați, pentru a vă feri de gloanțe. Ieșirea este permisă doar dacă nu există altă cale către o nouă poziție.
-- * Nu aveți voie să purtați cască și mască la war.
-- * Nu aveți voie să vă omorâți adversarii înainte de începerea war-ului.
+* Nu aveți voie să ieșiți din turf odată intrați, pentru a vă feri de gloanțe. Ieșirea este permisă doar dacă nu există altă cale către o nouă poziție.
+* Nu aveți voie să purtați cască și mască la war.
+* Nu aveți voie să vă omorâți adversarii înainte de începerea war-ului.
 * Nu aveți voie să omorâți cu vehicule.
 * Nu aveți voie să folosiți nickname-uri alese cu scop de troll sau care au intenția de a jigni ori ofensa adversarii.
 * Nu aveți voie să vorbiți cu adversarul decât dacă aveți de semnalat o neregulă și nu o puteți raporta la finalul war-ului.
