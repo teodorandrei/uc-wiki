@@ -49,7 +49,7 @@ Reprezintă atunci când o persoană încearcă prin fel și fel de tertipuri s�
 - Nu ai voie să păcălești un jucător să îți dea mașina printr-un schimb de mașini, iar la final să fugi de acolo;
 - Crearea unor oferte false sau manipularea altor jucători pentru a obține un avantaj necinstit. 
 
-### Ce NU se consideră Scam:
+### ✅️Ce NU se consideră Scam:
 {% hint style="success" %}
 Aceste situații sunt permise și nu se consideră **scam**.
 {% endhint %}
