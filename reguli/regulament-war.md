@@ -17,10 +17,9 @@ Pentru a evita eventuale erori vizuale, se recomandă utilizarea unei veste și 
 * Nu aveți voie să omorâți cu vehicule.
 * Nu aveți voie să folosiți nickname-uri alese cu scop de troll sau care au intenția de a jigni ori ofensa adversarii.
 * Nu aveți voie să vorbiți cu adversarul decât dacă aveți de semnalat o neregulă și nu o puteți raporta la finalul war-ului.
-* Nu aveți voie să trageți prin texturile jocului.
-Jucătorii sunt sfătuiți ca, atunci când se află pe clădiri, să evite tragerea în timp ce sunt pe CTRL, deoarece există șanse mari să tragă prin texturi fără să își dea seama.
+* Nu aveți voie să trageți prin texturile jocului. Jucătorii sunt sfătuiți ca, atunci când se află pe clădiri, să evite tragerea în timp ce sunt pe CTRL, deoarece există șanse mari să tragă prin texturi fără să își dea seama.
 * Nu aveți voie să faceți abuz de Q. Mai exact, să luați poziție după un perete și să trageți folosind animația de Q.
-Este strict interzisă neprezentarea la war, indiferent de scor.
+* Este strict interzisă neprezentarea la war, indiferent de scor.
 * Nu aveți voie să mergeți cu elicopterul pe turf.
 * Nu aveți voie să campezi la intrarea în turf.
 * Nu aveți voie să vă luați poziție pe clădiri înainte de începerea war-ului. Ambele facțiuni trebuie să fie poziționate în turf, față în față, în poziții opuse, pregătite pentru start.
