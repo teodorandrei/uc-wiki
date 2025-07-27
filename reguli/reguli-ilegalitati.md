@@ -38,25 +38,25 @@ Aceste zone sunt strict protejate și nu permit activități ilegale.
 
 ## Scam
 {% hint style="info" %}
-Scam reprezintă înșelătoria pentru a obține bunuri sau bani.
+Reprezintă atunci când o persoană încearcă prin fel și fel de tertipuri să păcălească un jucător, să apeleze la înșelăciune pentru a dobândi anumite bunuri sau bani.
 {% endhint %}
 
 {% hint style="danger" %}
 **STRICT INTERZIS**: 
 {% endhint %}
 
-- Promisiuni false de plată
-- Schimburi de mașini frauduloase
-- Orice formă de țeapă
+- Nu ai voie să pui pe cineva să lucreze pentru tine în schimbul unei sume de bani, iar după să nu-i dai banii;
+- Nu ai voie să păcălești un jucător să îți dea mașina printr-un schimb de mașini, iar la final să fugi de acolo;
+- Crearea unor oferte false sau manipularea altor jucători pentru a obține un avantaj necinstit. 
 
 ### Ce NU se consideră Scam:
 {% hint style="success" %}
 Aceste situații sunt permise și nu se consideră scam.
 {% endhint %}
 
-- Împrumuturi între prieteni
-- Vânzări cu plata inițială
-- Încrederea dată unui prieten
+- Împrumuturi între prieteni;
+- Vânzări cu plata inițială;
+- Încrederea dată unui prieten.
 
 {% hint style="warning" %}
 **ATENȚIE**: Toate tranzacțiile trebuie făcute cu banii din portofel, după retragere!
@@ -64,7 +64,7 @@ Aceste situații sunt permise și nu se consideră scam.
 
 ## In-Transfer
 {% hint style="info" %}
-Transferul se acordă după următoarea schemă:
+Transferul se acordă în funcție de numărul de zile pe care un jucător le-a acumulat în facțiune.
 {% endhint %}
 
 - 1-7 zile în facțiune = 14 zile transfer
