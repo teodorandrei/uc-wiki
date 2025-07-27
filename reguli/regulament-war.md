@@ -1,4 +1,4 @@
-## Informații generale
+## ⚔️ Informații generale 
 
 {% hint style="info" %}
 War-urile se desfășoară în zilele de luni, miercuri și vineri, în intervalul orar 21:00 – 23:00.
