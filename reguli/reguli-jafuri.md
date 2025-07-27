@@ -4,7 +4,7 @@
 Acest document conține regulile specifice pentru jafuri pe server. Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 {% endhint %}
 
-## Jefuirea Jucătorilor
+## 🔫Jefuirea Jucătorilor
 
 ### 🕓Interval de Timp
 {% hint style="warning" %}
@@ -14,7 +14,7 @@ Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 - Permisă doar între 21:00 - 06:00
 - Excepție: zonele deținute prin war-uri (TURFS)
 
-### ⛔Zone Protejate
+### 🛡 Zone Protejate
 {% hint style="danger" %}
 **STRICT INTERZIS** în proximitatea:
 {% endhint %}
@@ -27,7 +27,7 @@ Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 - Sedii ale poliției
 - Zone de ilegalități
 
-### Condiții pentru Jefuire
+### 📓Condiții pentru Jefuire
 {% hint style="info" %}
 Aceste condiții trebuie respectate pentru orice jaf.
 {% endhint %}
@@ -38,7 +38,7 @@ Aceste condiții trebuie respectate pentru orice jaf.
 
 ## 🔪Jafuri la Bijuterii/Bănci
 
-### Condiții
+### 🛑Condiții
 {% hint style="warning" %}
 Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.
 {% endhint %}
@@ -47,7 +47,7 @@ Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.
 - Minim 10, maxim 30 membri din facțiune
 - Fără ostatici
 
-### Reguli de Fugă
+### 📝Reguli de Fugă
 {% hint style="danger" %}
 **IMPORTANT**: 
 {% endhint %}
@@ -58,7 +58,7 @@ Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.
 
 ## 🏦Jafuri la Banca Pacific
 
-### Condiții Speciale
+### ✨Condiții Speciale
 {% hint style="warning" %}
 Aceste condiții sunt specifice pentru Banca Pacific.
 {% endhint %}
@@ -72,7 +72,7 @@ Aceste condiții sunt specifice pentru Banca Pacific.
 
 ## 🗒️Reguli Generale pentru Jafuri
 
-### Interdicții
+### 🚫Interdicții
 {% hint style="danger" %}
 **STRICT INTERZIS**: 
 {% endhint %}
@@ -81,7 +81,7 @@ Aceste condiții sunt specifice pentru Banca Pacific.
 - Simularea bunăvoinței pentru jaf
 - Uciderea persoanelor percheziționate doar pentru lipsa bunurilor
 
-### Distribuția Echipei
+### 👥Distribuția Echipei
 {% hint style="info" %}
 Aceste reguli asigură o distribuție echilibrată a echipei.
 {% endhint %}
@@ -89,7 +89,7 @@ Aceste reguli asigură o distribuție echilibrată a echipei.
 - Maxim 4 membri pe clădiri
 - Maxim 2 membri în patrulă
 
-### Interacțiunea cu Medici
+### 🫂Interacțiunea cu Medici
 {% hint style="warning" %}
 Aceste reguli se aplică pentru interacțiunea cu medicii în timpul jafului.
 {% endhint %}
@@ -97,7 +97,7 @@ Aceste reguli se aplică pentru interacțiunea cu medicii în timpul jafului.
 - Permisă alungarea medicilor
 - Interzisă eliminarea completă
 
-### Echipament
+### 👖Echipament
 {% hint style="danger" %}
 **OBLIGATORIU**: Echipament diferit față de poliție/alte familii
 {% endhint %}
