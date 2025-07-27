@@ -28,3 +28,7 @@ Este strict interzisă neprezentarea la war, indiferent de scor.
 * Nu aveți voie ca, în timpul war-urilor, să forțați mafia adversă să greșească prin orice metodă.
 * Nu aveți voie să sfidați în niciun fel echipa de staff care se ocupă de ticketele de după war. În caz contrar, veți fi sancționați fie cu Mafia Warn, fie cu ban, în funcție de gravitatea situației.
 * Nu aveți voie să interpretați regulamentul în favoarea voastră. Doar echipa administrativă poate oferi explicații privind regulile și poate face completări, chiar și după ziua war-urilor, dacă este necesar.
+
+{% hint style="danger" %}
+ORICE GREȘEALĂ SE POATE SANCȚIONA CU MAFIA WARN ÎN FUNCȚIE DE GRAVITATE!
+{% endhint %}
