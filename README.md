@@ -41,3 +41,9 @@ Folosiți meniul din stânga pentru a naviga prin diferitele secțiuni ale regul
 * ⚠️ [Reguli pentru Ilegalități](reguli/reguli-ilegalitati.md)
 * 💰 [Reguli pentru Jafuri](reguli/reguli-jafuri.md)
 * ⚡ [Reguli Speciale](reguli/reguli-speciale.md)
+
+## Multumiri speciale
+
+<a href="https://github.com/teodorandrei/primeromania/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=teodorandrei/primeromania" />
+</a>
