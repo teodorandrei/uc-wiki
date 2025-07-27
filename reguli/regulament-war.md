@@ -21,7 +21,7 @@ Pentru a evita eventuale erori vizuale, se recomandă utilizarea unei veste și 
 * Nu aveți voie să faceți abuz de Q. Mai exact, să luați poziție după un perete și să trageți folosind animația de Q.
 * Este strict interzisă neprezentarea la war, indiferent de scor.
 * Nu aveți voie să mergeți cu elicopterul pe turf.
-* Nu aveți voie să campezi la intrarea în turf.
+* Nu aveți voie să campați la intrarea în turf.
 * Nu aveți voie să vă luați poziție pe clădiri înainte de începerea war-ului. Ambele facțiuni trebuie să fie poziționate în turf, față în față, în poziții opuse, pregătite pentru start.
 * Este interzis trasul din orice tip de vehicul (mașină/motor).
 * Jucătorii mafiei nu au voie să campeze în afara turf-ului și apoi să intre. 
