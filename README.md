@@ -52,3 +52,7 @@ Folosiți meniul din stânga pentru a naviga prin diferitele secțiuni ale regul
 ## TEST
 
 <iframe src="https://teodorandrei.github.io/primero-contrib/contributors.html" width="100%" height="200"></iframe>
+
+## TEST 2
+
+{% include "../docs/contributors.md" %}

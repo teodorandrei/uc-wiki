@@ -1,0 +1,28 @@
+name: Update Contributors
+
+on:
+  schedule:
+    - cron: "0 */4 * * *" # Runs every 4 hours
+  workflow_dispatch:      # Allow manual runs
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch contributors and build markdown
+        run: |
+          echo "# 👥 Contributori" > docs/contributors.md
+          echo "" >> docs/contributors.md
+          curl -s "https://api.github.com/repos/teodorandrei/primeromania/contributors?per_page=100" \
+          | jq -r '.[] | "![](\(.avatar_url)&s=60)\n[\(.login)](\(.html_url))"' \
+          | sed 'N;s/\n/ /' >> docs/contributors.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add docs/contributors.md
+          git commit -m "Update contributors" || echo "No changes"
+          git push
