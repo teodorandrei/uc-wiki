@@ -14,6 +14,5 @@
 ## De adaugat
 * [Incepatori](incepatori/inceput.md)
 
-## Pentru Incepatori
-### Sisteme
+## Sisteme
 * [Telefon](sisteme/telefon.md)
