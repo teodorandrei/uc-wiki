@@ -1,9 +1,12 @@
 ## 🛠️Echiparea telefonului
 După achizitionarea acestuia se deschide inventarul (I):
 
+
 ![inventar](/public/img/inventar1.png)
 
+
 După aceea tragem telefonul in casuta de utilități specială pentru el: 
+
 
 ![inventar](/public/img/inventar2.png)
 
