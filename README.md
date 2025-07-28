@@ -47,3 +47,5 @@ Folosiți meniul din stânga pentru a naviga prin diferitele secțiuni ale regul
 <a href="https://github.com/teodorandrei/primeromania/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=teodorandrei/primeromania" />
 </a>
+
+<iframe src="https://teodorandrei.github.io/primero-contrib/contributors.html" width="100%" height="200"></iframe>
