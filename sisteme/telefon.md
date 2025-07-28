@@ -1,3 +1,4 @@
+{% hint style="info" %}
 ## 🛠️Echiparea telefonului
 După achizitionarea acestuia se deschide inventarul (I):
 
@@ -9,7 +10,7 @@ După aceea tragem telefonul in casuta de utilități specială pentru el:
 
 
 ![inventar](/public/img/inventar2.png)
-
+{% endhint %}
 
 ## 📱 Telefonul – Asistentul tău digital din oraș
 Telefonul iLife este dispozitivul mobil principal pe server, disponibil pentru toți jucătorii. Cu un design elegant și o interfață intuitivă, acesta îți oferă acces la funcții esențiale pentru viața ta de zi cu zi în oraș.
