@@ -1,7 +1,7 @@
 ## 📱 Telefonul – Asistentul tău digital din oraș
 Telefonul iLife este dispozitivul mobil principal pe server, disponibil pentru toți jucătorii. Cu un design elegant și o interfață intuitivă, acesta îți oferă acces la funcții esențiale pentru viața ta de zi cu zi în oraș.
 
-![TELEFON](/public/img/Web_Photo_Editor-Photoroom.jpg)
+![TELEFON](/public/img/Web_Photo_Editor-Photoroom.png)
 
 ## 🔧 Aplicații și Funcționalități:
 | Aplicație                 | Funcție principală                                              |
