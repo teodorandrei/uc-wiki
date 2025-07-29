@@ -42,7 +42,7 @@ Acestea sunt zonele de parcare oficiale, dotate cu un sistem special, diferit de
 
 ![ZILE PARCARE](/public/img/{3C38174C-B262-4A9E-86ED-724F389E0321}.png)
 
-Și la final,cand vrem să ne scoatem masina de pe locul de parcare ales,ni se va deschide un meniu :
+🔚Și la final,cand vrem să ne scoatem masina de pe locul de parcare ales,ni se va deschide un meniu :
 
 ![MENIU PARCARE](/public/img/{78D556BD-EFD6-40DF-832F-9197D8876A85}.png)
 
