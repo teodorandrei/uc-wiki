@@ -17,3 +17,5 @@
 ## Sisteme
 * [Telefon](sisteme/telefon.md)
 * [Parcare](sisteme/parcare.md)
+* [Frizerie](sisteme/parcare.md)
+* [Magazin Haine](sisteme/parcare.md)
