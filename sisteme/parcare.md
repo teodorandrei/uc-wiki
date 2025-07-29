@@ -24,7 +24,6 @@ Acestea sunt zonele de parcare oficiale, dotate cu un sistem special, diferit de
  🎮 Gameplay realist și organizat
 → Adio haos cu mașini lăsate pe trotuar sau în intersecții.
 
-{% hint style="warning" %}
 ## 💡Tutorial achizitionare loc de parcare
 
 
@@ -55,4 +54,3 @@ Din meniul de mai sus alegem ce vrem să executăm :
 ↔️2.Extinde perioada de parcare - aici iti vei putea extinde zilele de inchiriere ale parcării;
 
 ❌3.Refuza locul de parcare - de aici iti poti scoate locul de parcare si să alegi altă parcare daca nu iti convine aceea pe care ai ales-o.
-{% endhint %}
