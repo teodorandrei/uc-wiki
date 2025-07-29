@@ -46,7 +46,7 @@ Acestea sunt zonele de parcare oficiale, dotate cu un sistem special, diferit de
 
 ![MENIU PARCARE](/public/img/{78D556BD-EFD6-40DF-832F-9197D8876A85}.png)
 
-Din meniul de mai sus alegem ce vrem să executăm :
+### ⬆️Din meniul de mai sus alegem ce vrem să executăm :
 
 🙋🏻‍♂️1.Cheama un vehicul parcat - acest lucru iti va scoate masina in parcare pentru a porni la drum;
 
