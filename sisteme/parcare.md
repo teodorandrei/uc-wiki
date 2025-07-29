@@ -26,7 +26,6 @@ Acestea sunt zonele de parcare oficiale, dotate cu un sistem special, diferit de
 
 ## 💡Tutorial achizitionare loc de parcare
 
-
 🧔🏽‍♂️După ce ajungi la Cornel,parcangiul nostru,o sa trebuiască să apeși tasta ,,E,, :
 
 ![CORNEL](/public/img/{4070C5A9-7F14-499B-B1CC-441ED7CA41B8}.png)
