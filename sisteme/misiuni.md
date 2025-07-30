@@ -1,5 +1,6 @@
 
-## 🚗 Pentru Începători – Obținerea Permisului & Mașinii de Start
+
+## 🚗 Pentru Începători
 Dacă ești nou pe serverul Prime România (FiveM), primul pas este să obții permisul de conducere pentru a putea circula legal și să primești o mașină temporară gratuită pentru 14 zile. Urmează pașii de mai jos:
 
 ### 🟡1. Mergi la punctul marcat cu galben pe hartă
