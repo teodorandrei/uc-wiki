@@ -11,8 +11,6 @@
 * [Reguli Speciale](reguli/reguli-speciale.md)
 * [Reguli War](reguli/reguli-war.md)
 
-## De adaugat
-* [Incepatori](incepatori/inceput.md)
 
 
 ## Sisteme
