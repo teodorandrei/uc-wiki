@@ -6,12 +6,19 @@ Dacă ești nou pe serverul **Prime România (FiveM)**, primul pas este să obț
 ### 🟡 1. Mergi la punctul marcat cu galben pe hartă
 
 * Deschide harta și caută marcajul **galben** (🟡), care indică **Școala de Șoferi**.
-* Apropie-te de clădire și intră în zona de test.
+* Cand vei ajunge acolo vei fi intampinat de (Will Rider) femeia care te intampina sa conduci legal in oras,dar care la finalul scolii auto te va ajuta cu o masina!!
+
+![TUTORIAL](/public/img/tut1.png)
 
 ### 🧍‍♂️ 2. Interacționează cu NPC-ul
 
 * Vei vedea un **NPC** (instructor auto).
+
+![TUTORIAL](/public/img/tut2.png)
+
 * Apropie-te de el și apasă tasta **E** pentru a deschide meniul de interacțiune.
+
+![TUTORIAL](/public/img/tut3.png)
 
 ### 💳 3. Alege permisul de conducere
 
@@ -30,8 +37,11 @@ Dacă ești nou pe serverul **Prime România (FiveM)**, primul pas este să obț
 
 ### ✅ 5. Finalul testului – alegerea mașinii de început
 
-* După ce finalizezi traseul fără greșeli majore, vei primi un mesaj de confirmare.
+* După ce finalizezi traseul fără greșeli majore, vei primi permisul auto.
 * Ți se va deschide un **meniu special** din care îți poți alege **o mașină de început**.
+
+![TUTORIAL](/public/img/tut4.png)
+
 * Aceasta va fi **gratuită și valabilă timp de 14 zile** – perfectă pentru a te deplasa și a începe viața pe server.
 
 🎯 **Sfaturi utile:**
