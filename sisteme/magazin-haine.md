@@ -1,4 +1,5 @@
-## 👕 Tutorial Magazin de Haine – Prime România (FiveM)
+
+## 👕 Tutorial Magazin de Haine – Prime România
 
 Pe **Prime România**, stilul tău contează! Cu noul **magazin de haine interactiv**, îți poți personaliza complet personajul, de la șapcă până la pantofi. Uite cum funcționează:
 
