@@ -12,7 +12,7 @@
 * [Reguli War](reguli/reguli-war.md)
 
 ## Incepatori
- * [Misiune](sisteme/misiuni.md)
+ * [🎯Misiune](sisteme/misiuni.md)
 
 
 ## Sisteme
