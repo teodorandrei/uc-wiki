@@ -11,8 +11,6 @@
 * [Reguli Speciale](reguli/reguli-speciale.md)
 * [Reguli War](reguli/reguli-war.md)
 
-
-
 ## Sisteme
 * [📱Telefon](sisteme/telefon.md)
 * [🅿️Parcare](sisteme/parcare.md)
