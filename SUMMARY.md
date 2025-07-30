@@ -19,3 +19,5 @@
 * [🅿️Parcare](sisteme/parcare.md)
 * [✂️Frizerie](sisteme/frizerie.md)
 * [👕Magazin Haine](sisteme/magazin-haine.md)
+
+## Joburi
