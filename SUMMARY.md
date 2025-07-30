@@ -14,6 +14,7 @@
 ## De adaugat
 * [Incepatori](incepatori/inceput.md)
 
+
 ## Sisteme
 * [📱Telefon](sisteme/telefon.md)
 * [🅿️Parcare](sisteme/parcare.md)
