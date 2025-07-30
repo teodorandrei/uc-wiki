@@ -5,7 +5,7 @@ Dacă ești nou pe serverul Prime România (FiveM), primul pas este să obții p
 ### 🟡1. Mergi la punctul marcat cu galben pe hartă
 * Deschide harta și caută marcajul galben (🟡), care indică Școala de Șoferi.
 
-* Acolo vei fi intampinat/ă de Will Rider femeia care te va ajuta sa iei permisul auto,dar si sa iti inchirieze o masina!!
+* Acolo vei fi intampinat/ă de Will Rider care te va ajuta sa iei permisul auto,dar si sa iti inchirieze o masina!!
 
 ![Tutorial](/public/img/tut1.png)
 
