@@ -23,6 +23,7 @@ Pe serverul Prime România, frizeria are un sistem complet nou, interactiv și r
 🔹 **Machiaj** – opțiuni pentru detalii RP (vânătăi, tatuaje temporare, fard etc.).
 
 🔹 **Păr pe corp** – adaugă sau elimină păr pe piept, brațe, etc.
+
 ---
 
 ### ✏️ 3. Cum folosești opțiunile:
