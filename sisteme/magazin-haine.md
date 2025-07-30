@@ -1,7 +1,3 @@
-### Desigur! Iată un **tutorial detaliat despre magazinul de haine** de pe serverul **Prime România (FiveM)** – scris într-un stil clar, util pentru jucători noi sau pentru postare pe Discord, forum sau chiar ca introducere în RP:
-
----
-
 ## 👕 Tutorial Magazin de Haine – Prime România (FiveM)
 
 Pe **Prime România**, stilul tău contează! Cu noul **magazin de haine interactiv**, îți poți personaliza complet personajul, de la șapcă până la pantofi. Uite cum funcționează:
