@@ -15,7 +15,7 @@
 * [Incepatori](incepatori/inceput.md)
 
 ## Sisteme
-* [Telefon](sisteme/telefon.md)
-* [Parcare](sisteme/parcare.md)
-* [Frizerie](sisteme/frizerie.md)
-* [Magazin Haine](sisteme/magazin-haine.md)
+* [📱Telefon](sisteme/telefon.md)
+* [🅿️Parcare](sisteme/parcare.md)
+* [✂️Frizerie](sisteme/frizerie.md)
+* [👕Magazin Haine](sisteme/magazin-haine.md)
