@@ -18,6 +18,7 @@ Pe **Prime România**, stilul tău contează! Cu noul **magazin de haine interac
 * Vei intra într-un **meniu complet interactiv**, cu preview live al ținutei.
 
 ![HAINE](/public/img/haine3.png)
+
 ---
 ### 🎽 3. Cum personalizezi personajul:
 
