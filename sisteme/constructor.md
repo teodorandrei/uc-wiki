@@ -13,7 +13,7 @@ Vrei un job stabil, serios și bine plătit? Jobul de Constructor pe Prime Româ
 
 * Selectează din listă **(Vreau sa construiesc apartamentul)**.
 
-![CONSTRUCTOR](/public/img/constructor3.png)
+![CONSTRUCTOR](/public/img/constuctor3.png)
 
 * Creeaza-ți o sesiune noua (singur sau cu un prieten).
 
