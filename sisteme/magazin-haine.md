@@ -39,6 +39,7 @@ Meniul este împărțit în mai multe categorii:
 ➡️ Poți **ajusta textura** fiecărui obiect (ex: culoare, imprimeu).
 
 ➡️ Fiecare modificare se vede în timp real pe personajul tău.
+
 ---
 ### 💾 4. Salvarea ținutelor:
 
