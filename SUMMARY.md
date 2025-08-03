@@ -21,5 +21,5 @@
 * [✂️Frizerie](sisteme/frizerie.md)
 * [👕Magazin Haine](sisteme/magazin-haine.md)
 
-## Activități
+## Activitati
 * [👷🏽‍♂️Constructor](sisteme/constructor.md)
