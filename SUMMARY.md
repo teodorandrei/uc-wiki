@@ -12,7 +12,7 @@
 * [Reguli War](reguli/reguli-war.md)
 
 ## Incepatori
- * [🎯Misiune](sisteme/misiuni.md)
+ * [🎯Misiuni](sisteme/misiuni.md)
 
 
 ## Sisteme
@@ -21,5 +21,5 @@
 * [✂️Frizerie](sisteme/frizerie.md)
 * [👕Magazin Haine](sisteme/magazin-haine.md)
 
-## Joburi
+## Activități
 * [👷🏽‍♂️Constructor](sisteme/constructor.md)
