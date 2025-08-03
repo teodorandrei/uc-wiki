@@ -33,9 +33,7 @@ Vrei un job stabil, serios și bine plătit? Jobul de Constructor pe Prime Româ
 ![CONSTRUCTOR](/public/img/constructor5.png)
 
 ### 👷 3. Cum lucrezi:
-* Apropie-te de un punct de muncă activ.
-
-* Apasă E pentru a începe o animație de muncă.
+* Intra in punctul de muncă activ.
 
 * Repetă procesul în mai multe puncte pentru a finaliza un "ciclu de muncă".
 
