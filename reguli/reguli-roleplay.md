@@ -42,9 +42,11 @@ Character Kill este un proces în care un personaj își pierde identitatea și 
 
 * 🔪 Trădarea unei organizații ilegale (mafie);
 * 👑 Decizie luată de către Sindicat sau membru High Staff.
+* 🥷🏽 Se poate face cerere de CK de catre un membru de familie cand jucatorul respectiv (jefuitor) a fost prins de 3 ori la jefuit. (CNP)
 
 {% hint style="danger" %}
-**ATENȚIE**: Este strict interzisă distribuirea averii unui jucător care primește CK!
+**ATENȚIE**: Este strict interzisă distribuirea averii unui jucător care primește CK!;
+ Orice incercare de a lasa averea la altcineva se va sactiona cu **BAN PERMANENT**.
 {% endhint %}
 
 ## 🔞 Roleplay Scârbos (RS)
