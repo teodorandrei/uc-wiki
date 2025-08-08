@@ -11,7 +11,7 @@
 ![MENIU](/public/img/ghiozdan1.png)
 
    * Mergi la locația marcată și deschide **Meniul magazinului de ghiozdan**.
-   * Vei vedea mai multe **niveluri** disponibile pentru achiziție.
+   * Vei vedea mai multe **ghiozdane** disponibile pentru achiziție.
 
 
 ❓ **Cum funcționează nivelurile**
