@@ -23,8 +23,10 @@
 * [🎒Magazin Ghiozdan](magazin-ghiozdane.md)
 * [🎭Magazin Masti](magazin-masti.md)
 
-## Medicale
+## EMS
 * [🏥Defibrilator](defibrilator/defibrilator.md)
+
+## LSPD
 
 ## Activitati
 * [👷🏽‍♂️Constructor](sisteme/constructor.md)
