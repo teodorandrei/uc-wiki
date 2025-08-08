@@ -21,6 +21,7 @@
 * [✂️Frizerie](sisteme/frizerie.md)
 * [👕Magazin Haine](sisteme/magazin-haine.md)
 * [🏥Defibrilator](defibrilator/defibrilator.md)
+* [🎒Magazin Ghizodane](magazin-ghiozdane.md)
 
 ## Activitati
 * [👷🏽‍♂️Constructor](sisteme/constructor.md)
