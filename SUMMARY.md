@@ -25,7 +25,7 @@
 
 ## EMS
 * [🏥Defibrilator](defibrilator/defibrilator.md)
-* [👩🏻‍⚕️NPC-Spital](npc-spital.md)
+* [👩🏻‍⚕️Tratament dureri](tratament-dureri.md)
 ## LSPD
 
 ## Activitati
