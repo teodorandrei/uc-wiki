@@ -15,16 +15,17 @@
 
 3. **Verifică mesajul afișat de defibrilator**
 
-   * **Dacă apare mesajul:** **"SHOCK NOT ADVISED"**
+   * **Dacă se aude:** **"SHOCK NOT ADVISED"**
 
      * Jucătorul este declarat **decedat definitiv**.
      * Nu mai poate fi readus la viață – moarte permanentă.
-   * **Dacă apare mesajul:** **"SHOCK ADVISED"**
+   
+   * **Dacă se aude:** **"SHOCK ADVISED"**
 
      * Așteaptă instrucțiunea vocală **"PUSH TO SHOCK"**.
      * Apasă **SPACE** pentru a administra șocul electric.
      * **Atenție:** dacă ești prea aproape de jucător în momentul șocului, vei fi electrocutat și tu.
-     * După șoc, defibrilatorul va efectua **CPR** și jucătorul va fi **revive**.
+     * După șoc, defibrilatorul va efectua **CPR** și jucătorul va fi **reînviat**.
 
 4. **Returnează defibrilatorul**
 
