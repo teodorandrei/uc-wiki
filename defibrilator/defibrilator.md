@@ -5,7 +5,7 @@
 
 1. **Mergi la cutia cu defibrilator**
 
-   * Localizează cutia unde este depozitat defibrilatorul.
+   * Localizează cutia unde este depozitat defibrilatorul.(de obicei se gasesc la marginea străzii)
    * Ia defibrilatorul din cutie.
 
 2. **Apropie-te de jucătorul pe care vrei să-l resuscitezi**
