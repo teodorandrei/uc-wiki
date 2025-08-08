@@ -1,12 +1,12 @@
 
 ## Tutorial – Magazinul de ghiozdan
 
-👉🏽 **Găsirea magazinului**
+### 👉🏽 **Găsirea magazinului**
 
    * Magazinul este **marcat pe hartă cu un ghiozdan portocaliu** – caută simbolul pentru a-l localiza rapid.
 
 
-🧏🏽‍♂️ **Accesarea magazinului**
+### 🧏🏽‍♂️ **Accesarea magazinului**
 
 ![MENIU](/public/img/ghiozdan1.png)
 
@@ -14,13 +14,13 @@
    * Vei vedea mai multe **ghiozdane** disponibile pentru achiziție.
 
 
-❓ **Cum funcționează nivelurile**
+### ❓ **Cum funcționează nivelurile**
 
    * **Fiecare nivel** cumpărat **deblochează un rând nou de sloturi** în inventar.
    * Mai multe niveluri = mai multe rânduri = mai mult spațiu pentru obiecte.
 
 
-💰 **Achiziționarea**
+### 💰 **Achiziționarea**
 
 ![Ghiozdane](/public/img/ghiozdan2.png)
 
@@ -29,7 +29,7 @@
    * Noul rând de sloturi apare imediat în inventar.
 
 
-💡 **Notă:**
+### 💡 **Notă:**
 
 * Spațiul suplimentar este **permanent** după deblocare.
 
