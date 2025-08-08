@@ -15,12 +15,19 @@
 ### 🗯️  Discuta cu medicul
 
 * Medicul te va duce într-o cameră specială de operație.
-* În această cameră, medicul îți va propune operația facială.
+* În această cameră, vei merge la aparatură si vei apăsa ,E,
+
+![Faciala](/public/img/faciala1.png)
 
 ### 💲  Costul operației
 
 * Pe ecran îți va apărea prețul operației.
+
+![Faciala](/public/img/faciala2.png)
+
 * Dacă ești de acord, poți accepta să plătești și să începi operația.
+
+![Faciala](/public/img/faciala3.png)
 
 ### 🩺  Rolul medicului
 
@@ -28,7 +35,10 @@
 
 ### 🕹️  Minigame-ul de aprobare
 
-* La finalul operației, medicul trebuie să aprobe operația printr-un **minigame**.
+* În timpul operației, medicul trebuie să faca operația printr-un **minigame**.
+
+![Faciala](/public/img/faciala4.png)
+
 * Doar după ce minigame-ul este completat cu succes, operația este finalizată și modificările 
 
 ### 📢 Sfaturi utile:
