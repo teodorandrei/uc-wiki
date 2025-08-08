@@ -20,9 +20,10 @@
 * [🅿️Parcare](sisteme/parcare.md)
 * [✂️Frizerie](sisteme/frizerie.md)
 * [👕Magazin Haine](sisteme/magazin-haine.md)
-* [🏥Defibrilator](defibrilator/defibrilator.md)
 * [🎒Magazin Ghiozdan](magazin-ghiozdane.md)
 * [🎭Magazin Masti](magazin-masti.md)
 
+## Medicale
+* [🏥Defibrilator](defibrilator/defibrilator.md)
 ## Activitati
 * [👷🏽‍♂️Constructor](sisteme/constructor.md)
