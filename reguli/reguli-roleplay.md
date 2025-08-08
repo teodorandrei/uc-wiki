@@ -46,7 +46,8 @@ Character Kill este un proces în care un personaj își pierde identitatea și 
 
 {% hint style="danger" %}
 **ATENȚIE**: Este strict interzisă distribuirea averii unui jucător care primește CK!;
- Orice incercare de a lasa averea la altcineva se va sactiona cu **BAN PERMANENT**.
+ 
+ Orice încercare de a lăsa averea la altcineva se va sancționa cu **BAN PERMANENT**.
 {% endhint %}
 
 ## 🔞 Roleplay Scârbos (RS)
