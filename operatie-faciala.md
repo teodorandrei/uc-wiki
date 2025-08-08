@@ -39,7 +39,7 @@
 
 ![Faciala](/public/img/faciala4.png)
 
-* Doar după ce minigame-ul este completat cu succes, operația este finalizată și modificările 
+* Doar după ce minigame-ul este completat cu succes, operația este finalizată și modificările sunt aplicate!! 
 
 ### 📢 Sfaturi utile:
 
