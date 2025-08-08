@@ -3,6 +3,8 @@
 
 ### 📍 **Locație**
 
+![NPC](/public/img/poza-npc-medic.png)
+
    * NPC-ul se găsește **în interiorul spitalului**, ușor de recunoscut după uniforma medicală și standul la tejghea.
 
 ### ⚡ **Ce oferă**
