@@ -1,5 +1,4 @@
 
-
 ## Tutorial – Magazinul de măști
 
 ### 🔎 **Găsirea magazinului**
@@ -8,10 +7,14 @@
 
 ### 🔒 **Accesarea magazinului**
 
-   * Mergi la locația marcată și deschide **UI-ul magazinului de măști**.
+![MASTI](/public/img/masti1.png)
+
+   * Mergi la locația marcată și deschide **Meniul magazinului de măști**.
    * Vei găsi o varietate de modele, culori și stiluri.
 
 ### 💲 **Cum funcționează achiziția**
+
+![MASTI](/public/img/masti2.png)
 
    * Măștile se cumpără la **diferite prețuri**, în funcție de raritate, design și materiale.
    * Selectează masca dorită, confirmă plata și aceasta va fi adăugată în inventar.
@@ -19,7 +22,7 @@
 ### 🌟 **Beneficiile măștilor**
 
    * Permit **ascunderea feței**, utilă pentru cei care vor să își păstreze identitatea secretă.
-   * Pot fi folosite pentru **discreție în misiuni**, pentru un aspect **cool** sau chiar pentru **rol-play**.
+   * Pot fi folosite pentru **discreție în misiuni**, pentru un aspect **cool** sau chiar pentru **roleplay**.
 
 ### 📢 **Sfaturi utile**
 
