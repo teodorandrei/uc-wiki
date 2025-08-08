@@ -22,6 +22,7 @@
 * [👕Magazin Haine](sisteme/magazin-haine.md)
 * [🏥Defibrilator](defibrilator/defibrilator.md)
 * [🎒Magazin Ghiozdan](magazin-ghiozdane.md)
+* [🎭Magazin Masti](magazin-masti.md)
 
 ## Activitati
 * [👷🏽‍♂️Constructor](sisteme/constructor.md)
