@@ -1,5 +1,5 @@
 
-## 📖 Tutorial – Cum folosești defibrilatorul
+## Tutorial – Cum folosești defibrilatorul
 
 ![DEFIBRILATOR](/public/img/defibrilator.png)
 
