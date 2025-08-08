@@ -20,7 +20,6 @@
 
    * Permit **ascunderea feței**, utilă pentru cei care vor să își păstreze identitatea secretă.
    * Pot fi folosite pentru **discreție în misiuni**, pentru un aspect **cool** sau chiar pentru **rol-play**.
-   * Unele măști rare pot fi **colectibile**, iar altele pot oferi **bonusuri cosmetice speciale** (efecte vizuale, animații).
 
 ### 📢 **Sfaturi utile**
 
