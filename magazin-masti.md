@@ -30,5 +30,5 @@
    * Poți păstra mai multe măști și le poți schimba oricând din meniul de personalizare.
    * Unele modele pot deveni indisponibile după un eveniment special – cumpără-le cât sunt pe stoc!
 
-### 💡 **Notă:
+### 💡 Notă:
  Măștile nu oferă protecție fizică, ci sunt **exclusiv cosmetice și pentru rol-play**.
