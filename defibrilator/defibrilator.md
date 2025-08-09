@@ -34,6 +34,6 @@
 
 ⚠️ **Sfaturi utile**
 
-* Păstrează distanța când apeși **SPACE** pentru a evita șocul.
+* Păstrează distanța când apeși **`SPACE`** pentru a evita șocul.
 * Nu încerca să reînvii un jucător dacă dispozitivul spune **"SHOCK NOT ADVISED"** – este pierdere de timp.
 * Întotdeauna returnează defibrilatorul, poate fi necesar și pentru altcineva.
