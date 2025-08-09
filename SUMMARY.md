@@ -27,6 +27,8 @@
 * [🏥Defibrilator](defibrilator/defibrilator.md)
 * [👩🏻‍⚕️Tratament dureri](tratament-dureri.md)
 * [👧🏽Operatie Faciala](operatie-faciala.md)
+* [⚕️Uniforme EMS](uniforme-ems.md)
+
 ## LSPD
 
 ## Activitati
