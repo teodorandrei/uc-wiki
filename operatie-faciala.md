@@ -15,7 +15,7 @@
 ### 🗯️  Discuta cu medicul
 
 * Medicul te va duce într-o cameră specială de operație.
-* În această cameră, vei merge la aparatură si vei apăsa ,E,
+* În această cameră, vei merge la aparatură si vei apăsa **`E`**
 
 ![Faciala](/public/img/faciala1.png)
 
