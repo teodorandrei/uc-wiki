@@ -10,6 +10,9 @@ Acest sistem le permite membrilor EMS (medici, paramedici) să își schimbe hai
 ### 🔑 Accesarea vestiarului
 
 * **Apasă tasta `E`** atunci când ești în zona vestiarului EMS.
+
+![VESTIAR](/public/img/cufar-ems.png)
+
 * Ți se va deschide un **cufăr numit „Vestiar”**.
 * În acest vestiar, îți poți lăsa hainele pe care le ai în inventar, pentru a nu le pierde.
 
