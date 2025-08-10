@@ -26,7 +26,7 @@ Garderoba îți permite să salvezi și să gestionezi mai multe seturi de haine
 
 ![Garderoba](/public/img/garderoba2.png)
 
-* Selectează-ți haina si trage-o la tine in inventar.
+* Selectează-ți haina si trage-o la tine în inventar.
 * Garderobele sunt diferite la fiecare magazin de haine,adică tu dacă îți lași hainele în magazinul din groove nu le vei găsii in garderoba din magazinul de haine de langa Michael.
 
 
