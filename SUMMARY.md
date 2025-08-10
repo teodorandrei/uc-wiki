@@ -22,6 +22,7 @@
 * [👕Magazin Haine](sisteme/magazin-haine.md)
 * [🎒Magazin Ghiozdan](magazin-ghiozdane.md)
 * [🎭Magazin Masti](magazin-masti.md)
+* [🛍️Garderoba](garderoba.md)
 
 ## EMS
 * [🏥Defibrilator](defibrilator/defibrilator.md)
