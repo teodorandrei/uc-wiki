@@ -11,6 +11,7 @@ Garderoba îți permite să salvezi și să gestionezi mai multe seturi de haine
 * Garderobele se găsesc **la magazinele de haine** din oraș.
 * Poți intra în garderobă doar dacă te afli în zona dedicată din magazin.
 
+![Garderoba](/public/img/garderoba1.png)
 
 ### 🔓 2. Deblocarea sloturilor
 
@@ -21,14 +22,18 @@ Garderoba îți permite să salvezi și să gestionezi mai multe seturi de haine
 
 ### ✅ 3. Utilizarea garderobei
 
-* Selectează slotul dorit pentru a salva ținuta curentă.
-* Poți redenumi sloturile pentru a ști ce ținută conțin.
-* Poți schimba rapid hainele selectând alt slot, fără cost suplimentar.
+* Deschide garderoba pe tasta **`E`** 
+
+![Garderoba](/public/img/garderoba2.png)
+
+* Selectează-ți haina si trage-o la tine in inventar.
+* Garderobele sunt diferite la fiecare magazin de haine,adică tu dacă îți lași hainele în magazinul din groove nu le vei găsii in garderoba din magazinul de haine de langa Michael.
+
 
 
 ## 💡 Sfaturi:
 
 * Investiția în sloturi suplimentare îți oferă mai multă flexibilitate pentru evenimente, joburi sau roleplay.
-* Folosește denumiri clare (ex: „Ținută EMS”, „Costum elegant”, „Ținută casual”) pentru a găsi rapid ce ai nevoie.
 * 35 de sloturi îți permit o colecție mare de haine pentru orice situație.
+
 
