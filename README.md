@@ -1,11 +1,7 @@
 ---
 description: Regulamentul Oficial al Serverului Undercover Romania
-cover: .gitbook/assets/imagine2.png
-coverY: 21
 layout:
-  cover:
-    visible: true
-    size: full
+  width: default
   title:
     visible: true
   description:
@@ -15,6 +11,8 @@ layout:
   outline:
     visible: true
   pagination:
+    visible: true
+  metadata:
     visible: true
 ---
 
@@ -44,6 +42,4 @@ Folosiți meniul din stânga pentru a naviga prin diferitele secțiuni ale regul
 
 ## 💛 Multumiri speciale
 
-<a href="https://github.com/teodorandrei/uc-wiki/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=teodorandrei/uc-wiki" />
-</a>
+[![](https://contrib.rocks/image?repo=teodorandrei/uc-wiki)](https://github.com/teodorandrei/uc-wiki/graphs/contributors)
