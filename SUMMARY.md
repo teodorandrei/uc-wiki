@@ -11,26 +11,23 @@
 * [Reguli Speciale](reguli/reguli-speciale.md)
 * [Reguli War](reguli/reguli-war.md)
 
-## Incepatori
-
-
-
 ## Sisteme
+
 * [📱Telefon](sisteme/telefon.md)
 * [🅿️Parcare](sisteme/parcare.md)
 * [✂️Frizerie](sisteme/frizerie.md)
 * [👕Magazin Haine](sisteme/magazin-haine.md)
-* [🎒Magazin Ghiozdan](magazin-ghiozdane.md)
-* [🎭Magazin Masti](magazin-masti.md)
-* [🛍️Garderoba](garderoba.md)
+* [🎒Magazin Ghiozdan](sisteme/magazin-ghiozdane.md)
+* [🎭Magazin Masti](sisteme/magazin-masti.md)
+* [🛍️Garderoba](sisteme/garderoba.md)
 
 ## EMS
-* [🏥Defibrilator](defibrilator/defibrilator.md)
-* [👩🏻‍⚕️Tratament dureri](tratament-dureri.md)
-* [👧🏽Operatie Faciala](operatie-faciala.md)
-* [⚕️Uniforme EMS](uniforme-ems.md)
 
-## LSPD
+* [🏥Defibrilator](ems/defibrilator.md)
+* [👩🏻‍⚕️Tratament dureri](ems/tratament-dureri.md)
+* [👧🏽Operatie Faciala](ems/operatie-faciala.md)
+* [⚕️Uniforme EMS](ems/uniforme-ems.md)
 
 ## Activitati
-* [👷🏽‍♂️Constructor](sisteme/constructor.md)
+
+* [👷🏽‍♂️Constructor](activitati/constructor.md)

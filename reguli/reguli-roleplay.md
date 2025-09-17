@@ -46,8 +46,8 @@ Character Kill este un proces în care un personaj își pierde identitatea și 
 
 {% hint style="danger" %}
 **ATENȚIE**: Este strict interzisă distribuirea averii unui jucător care primește CK!;
- 
- Orice încercare de a lăsa averea la altcineva se va sancționa cu **BAN PERMANENT**.
+
+Orice încercare de a lăsa averea la altcineva se va sancționa cu **BAN PERMANENT**.
 {% endhint %}
 
 ## 🔞 Roleplay Scârbos (RS)
@@ -61,9 +61,9 @@ Roleplay-ul Scârbos reprezintă simularea acțiunilor cu tentă sexuală sau sc
 
 ## 🚙 Car-Ram (CR)
 
-Car-Ram reprezintă momentul în care doi sau mai mulți jucători se lovesc cu mașinile încontinuu, pentru propriul amuzament. 
+Car-Ram reprezintă momentul în care doi sau mai mulți jucători se lovesc cu mașinile încontinuu, pentru propriul amuzament.
 
-## 💰 Rob & Kill 
+## 💰 Rob & Kill
 
 Rob & Kill reprezintă jefuirea unui jucător și, ulterior, omorârea acestuia.
 
@@ -73,7 +73,7 @@ Rob & Kill reprezintă jefuirea unui jucător și, ulterior, omorârea acestuia.
 * ⚠️ Necesită context roleplay valid;
 * ❌ Interzis în zone safe/publice.
 
-## 🔫 Kill & Rob 
+## 🔫 Kill & Rob
 
 Kill & Rob reprezintă uciderea unui jucător și, ulterior, jefuirea acestuia.
 
@@ -81,12 +81,11 @@ Kill & Rob reprezintă uciderea unui jucător și, ulterior, jefuirea acestuia.
 
 * ✅ Permis doar prin realizarea unui minim de roleplay.
 
-
 {% hint style="info" %}
 **SFAT**: Întotdeauna oferiți șansa de cooperare înainte de a recurge la violență!
 {% endhint %}
 
-## 📦 Drop & Kill 
+## 📦 Drop & Kill
 
 Drop & Kill reprezintă forțarea unui jucător să arunce pe jos diferite obiecte și, ulterior, uciderea acestuia.
 
@@ -95,11 +94,13 @@ Drop & Kill reprezintă forțarea unui jucător să arunce pe jos diferite obiec
 Reprezintă instigarea organelor de poliție prin metode IC cu scopul de a le atrage atenția și de a provoca urmăriri doar pentru propriul amuzament.
 
 {% hint style="warning" %}
-### ATENȚIE!
+#### ATENȚIE!
+
 Orice formă de provocare intenționată a poliției este considerată COP BAIT.
-- Drift sau burnout în fața secției de poliție;
-- Apelurile false către poliție doar pentru divertisment;
-- Trecerea intenționată pe culoarea roșie a semaforului când un echipaj de poliție sau un polițist este în apropiere.
+
+* Drift sau burnout în fața secției de poliție;
+* Apelurile false către poliție doar pentru divertisment;
+* Trecerea intenționată pe culoarea roșie a semaforului când un echipaj de poliție sau un polițist este în apropiere.
 {% endhint %}
 
 ## ☠️ Player-Kill (PK)
