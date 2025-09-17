@@ -23,6 +23,9 @@ Aceste zone sunt considerate publice și pot fi folosite pentru activități ile
 * Mina 
 * Zona de pescuit
 * Ciupercar
+* Crafting 
+* Zone de cules 
+* Hacker Point
 
 ### 🟢Safe Zone
 
@@ -34,8 +37,6 @@ Aceste zone sunt strict protejate și nu permit activități ilegale.
 * Showroom
 * Secția de poliție
 * Locul unde se află joburile
-* Locul unde craftezi
-* Locul unde culegi
 * Interioarele magazinelor
 * Interiorul frizeriilor
 * Wazel News
