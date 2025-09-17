@@ -11,12 +11,12 @@ Acest document conține regulile specifice pentru jafuri pe server. Respectarea 
 Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 {% endhint %}
 
-- Permisă doar între 21:00 - 06:00
+- Permisă doar între 19:00 - 07:00
 - Excepție: zonele deținute prin war-uri (TURFS)
 
 ### 🛡 Zone Protejate
 {% hint style="danger" %}
-**STRICT INTERZIS** în proximitatea:
+**STRICT INTERZIS** în proximitatea (50M):
 {% endhint %}
 
 - Băncilor
@@ -25,7 +25,8 @@ Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 - Bancomatelor
 - Locațiilor de joburi legale
 - Sedii ale poliției
-- Zone de ilegalități
+- Spital
+- Safezone
 
 ### 📓Condiții pentru Jefuire
 {% hint style="info" %}
@@ -47,7 +48,7 @@ Aceste condiții trebuie respectate pentru orice jaf.
 Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.
 {% endhint %}
 
-- Doar pentru facțiuni Family
+- Doar pentru Mafii
 - Minim 10, maxim 30 membri din facțiune
 - Fără ostatici
 
