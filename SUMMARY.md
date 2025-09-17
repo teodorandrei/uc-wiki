@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Prime Romania](README.md)
+* [👋 Undercover Romania](README.md)
 
 ## Reguli
 
@@ -10,27 +10,3 @@
 * [Reguli pentru Jafuri](reguli/reguli-jafuri.md)
 * [Reguli Speciale](reguli/reguli-speciale.md)
 * [Reguli War](reguli/reguli-war.md)
-
-## Incepatori
-
-
-
-## Sisteme
-* [📱Telefon](sisteme/telefon.md)
-* [🅿️Parcare](sisteme/parcare.md)
-* [✂️Frizerie](sisteme/frizerie.md)
-* [👕Magazin Haine](sisteme/magazin-haine.md)
-* [🎒Magazin Ghiozdan](magazin-ghiozdane.md)
-* [🎭Magazin Masti](magazin-masti.md)
-* [🛍️Garderoba](garderoba.md)
-
-## EMS
-* [🏥Defibrilator](defibrilator/defibrilator.md)
-* [👩🏻‍⚕️Tratament dureri](tratament-dureri.md)
-* [👧🏽Operatie Faciala](operatie-faciala.md)
-* [⚕️Uniforme EMS](uniforme-ems.md)
-
-## LSPD
-
-## Activitati
-* [👷🏽‍♂️Constructor](sisteme/constructor.md)
