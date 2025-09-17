@@ -1,5 +1,5 @@
 ---
-description: Regulamentul Oficial al Serverului Prime Romania
+description: Regulamentul Oficial al Serverului Undercover Romania
 cover: .gitbook/assets/imagine2.png
 coverY: 21
 layout:
@@ -18,10 +18,10 @@ layout:
     visible: true
 ---
 
-# 👋 Prime Romania
+# 👋 Undercover Romania
 
 {% hint style="info" %}
-Bine ați venit pe serverul Prime Romania! Acest document conține regulamentul oficial și complet al serverului nostru.
+Bine ați venit pe serverul Undercover Romania! Acest document conține regulamentul oficial și complet al serverului nostru.
 {% endhint %}
 
 ## 📖 Despre Regulament
@@ -44,6 +44,6 @@ Folosiți meniul din stânga pentru a naviga prin diferitele secțiuni ale regul
 
 ## 💛 Multumiri speciale
 
-<a href="https://github.com/teodorandrei/primeromania/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=teodorandrei/primeromania" />
+<a href="https://github.com/teodorandrei/uc-wiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=teodorandrei/uc-wiki" />
 </a>
