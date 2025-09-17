@@ -16,10 +16,13 @@ Aceste zone sunt considerate publice și pot fi folosite pentru activități ile
 
 * Străzile principale
 * Benzinăriile
-* Tuning mașini
+* Tuning
 * ATM/Bănci
 * Autostrăzi
-* Sala de forță BEACH
+* Sala de forță
+* Mina 
+* Zona de pescuit
+* Ciupercar
 
 ### 🟢Safe Zone
 
@@ -31,13 +34,14 @@ Aceste zone sunt strict protejate și nu permit activități ilegale.
 * Showroom
 * Secția de poliție
 * Locul unde se află joburile
-* Casă Pablo Cayo
+* Locul unde craftezi
+* Locul unde culegi
 * Interioarele magazinelor
-* Parcări
 * Interiorul frizeriilor
+* Wazel News
 
 {% hint style="danger" %}
-**ATENȚIE**: Zona ultracentrală (Showroom până la Secția de Poliție) este strict protejată!
+**ATENȚIE**: Zona ultracentrală (Showroom până la Secția de Poliție și până la Primarie) sunt zone strict protejate!
 {% endhint %}
 
 ## 🔴Scam
