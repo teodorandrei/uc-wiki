@@ -25,6 +25,19 @@ Refuzul de a participa sau coopera într-o situație de roleplay este strict int
 
 * Indiferent de natura roleplay-ului (jaf, arestare, negociere, conflict etc.), odată ce ai intrat într-o situație IC, ești obligat să o duci până la capăt într-un mod realist și responsabil.
 
+## Fail Roleplay (FRP)
+
+{% hint style="success" %}
+Fail Roleplay consta in nepotrivirea anumitor actiuni cu context Roleplay.
+{% endhint %}
+
+### Exemple de Fail Roleplay:
+* Daca viata medicului este in pusa in pericol.
+* Daca doresti sa tii pe cineva ostatic in roleplay si il jefuiesti. Daca vin negociatori si ii jefuiesti.
+* Daca faci ilegalitati cu masinile joburilor legale.
+* Daca jefuiesti un vehicul aflat in afara zonelor de jefuit si intre orele 19:00-07:00. (se sanctioneaza cu FRP - jefuire inafara zonei rosii)
+* Daca iau pe cineva in masina de buna voie (de ex. de la CNN) si il duc pe zone rau famate.
+
 ## 👤 In-Character (IC)
 
 Reprezintă comportamentul și acțiunile personajului în joc.
@@ -37,6 +50,12 @@ Reprezintă comportamentul și acțiunile jucătorului, în afara personajului.
 ## ⚠️ Non-Fear (NF)
 
 Non-Fear reprezintă momentul în care nu simulezi frica în situații care ar trebui să provoace teamă. Acest comportament este strict interzis!
+
+{% hint style="info" %}
+Non-Fear poate fii de doua tipuri:
+* Agresiv - lipsa stimularii fricii de moarte.
+* Pasiv - lipsa stimularii fricii de autoritate (politie,puscarie,tazer etc) sau a fricii fata de grupari mai mari.
+{% endhint %}
 
 ### Exemple de NF interzise:
 
