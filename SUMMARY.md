@@ -10,4 +10,4 @@
 * [Reguli pentru Jafuri](reguli/reguli-jafuri.md)
 * [Reguli Speciale](reguli/reguli-speciale.md)
 * [Reguli War](reguli/reguli-war.md)
-
+* [Job-uri](reguli/joburi.md)

@@ -39,6 +39,7 @@ Folosiți meniul din stânga pentru a naviga prin diferitele secțiuni ale regul
 * ⚠️ [Reguli pentru Ilegalități](reguli/reguli-ilegalitati.md)
 * 💰 [Reguli pentru Jafuri](reguli/reguli-jafuri.md)
 * ⚡ [Reguli Speciale](reguli/reguli-speciale.md)
+* 💰 [Job-uri](reguli/joburi.md)
 
 ## 💛 Multumiri speciale
 
