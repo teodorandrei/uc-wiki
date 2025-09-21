@@ -117,6 +117,14 @@ Aceste reguli se aplică specific pentru medici în timpul jafului.
 - Interzis revive în timpul jafului
 - Permis doar după finalizarea jafului
 
+{% hint style="danger" %}
+**IMPORTANT**: Medicii asteapta confirmarea politistilor pe dispecer ca zona este sigura. Sau asteapta la circa 2-3 strazi distanta, si urmaresc sunetul armelor de foc ca apoi sa poata intervenii.
+{% endhint %}
+
+{% hint style="warning" %}
+Nesubordonarea la cuvintele unui jucator cu arma in mana duce la sanctiune (Non-Fear)
+{% endhint %}
+
 ### 🥷🏽Pentru Mafioți
 {% hint style="danger" %}
 **IMPORTANT**: Aceste reguli se aplică specific pentru mafioți.

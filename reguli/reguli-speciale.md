@@ -112,7 +112,7 @@ Transferul se acordă în funcție de numărul de zile pe care un jucător le-a 
 - Interzisă interpretarea regulamentului
 - Interzise acuzațiile fără dovezi
 
-### Comportament pe Server
+### 🤝 Comportament pe Server
 {% hint style="danger" %}
 **STRICT INTERZIS**: 
 {% endhint %}
@@ -121,7 +121,7 @@ Transferul se acordă în funcție de numărul de zile pe care un jucător le-a 
 - Interacțiunea de pe contul unui prieten
 - Participarea la support fără implicare în roleplay
 
-### Crash și Probleme Tehnice
+### 🛠️ Crash și Probleme Tehnice
 {% hint style="warning" %}
 **IMPORTANT**: 
 {% endhint %}
@@ -130,35 +130,35 @@ Transferul se acordă în funcție de numărul de zile pe care un jucător le-a 
 - Folosiți doar metode in-game pentru comunicare
 - Interzisă folosirea informațiilor din afara jocului 
 
-## Reclama
+## 📺 Reclama
 * 🚫 Orice metoda de reclama pentru alte comunitati, atat pe server, cat si pe discord.
 
-## Stream Snipe
+## 🕵🏻 Stream Snipe
 * 🚫 Urmarirea si stricarea experientei lor pe live sau in RolePlay. (indiferent de platforma aleasa: TikTok, YouTube ,Kick etc) 
 
-## Post Hunt
+## 🕵🏻 Post Hunt
 * 🚫 Urmarirea si cautarea intentionata a dovezilor pentru a sanctiona pe cineva. 
 * 🎫 Daca RolePlay-ul tau nu a fost in mod direct afectat, nu poti face o reclamatie/ticket.
 * ✅ Echipa Administrativa va decide daca se vor aplica sanctiuni sau nu
 
-## Ban Evading
+## ❇️ Ban Evading
 * 🚫 Utilizarea unui/mai multor conturi pentru a juca pe server in urma banarii.
 
-## Evenimente
+## 🗓️ Evenimente
 {% hint style="info" %}
 Orice adunare de jucatori, indiferent de numarul acestora (car meeting,petreceri, proteste, curse/competitii etc) este considerat eveniment.
 {% endhint %}
 
 * 🚫 Deranjarea sau/si influentarea acestora intr-un mod negativ fara aprobarea membrilor din echipa Administrativa
 
-## Tranzactii OOC
+## ✒️ Tranzactii OOC
 * Tranzactiile OOC sunt interzise
 * Singurii care pot primi tranzactii sunt fondatorii serverului.
 
-## Tranzactii cu BANI DIN JOC pe BANI REALI
+## ✒️ Tranzactii cu BANI DIN JOC pe BANI REALI
 * Pentru orice tranzactie, contactati fondatorii serverului.
 
-## Moduri de grafica
+## ✒️ Moduri de grafica
 {% hint style="info" %}
 Este interzis utilizarea modurilor de grafica care iti pot oferii avantaje in plus fata de toti ceilalti jucatori.
 {% endhint %}

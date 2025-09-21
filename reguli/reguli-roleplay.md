@@ -137,33 +137,33 @@ Comă reprezintă momentul în care ești "leșinat" din diverse motive.
 - Interzisă vorba
 - Poți primi ajutor medical (cu excepția schimburilor de focuri)
 
-## Fake Cop/Medic
+## 🪪 Fake Cop/Medic
 
 * 🚫 Interzis sa te imbraci ca un politist sau medic daca nu faci parte din factiunea respectiva.
 
-## Olimpic Swim 
+## 🌊 Olimpic Swim 
 * Momentul in care inoti pe o perioada indelungata de timp fara pauze.
 * Se sanctioneaza cu Power Gaming.
 
-## Condus Non-Roleplay
+## 🚧 Condus Non-Roleplay
 
 {% hint style="info" %}
 Tipuri de comportament in momentul conducerii unui autovehicul care nu respecta regulile RolePlay.
 {% endhint %}
 
-### Off road 
+### 🚨 Off Road
 * 🚫 Conducerea unui autovehicul pe drumuri neasfaltate/forestiere cu garda joasa. Viteza maxima permisa 50-60 km/h, si in cazuri urgente, pana la 90-100 km/h.
 
-### Off road extrem 
+### 🚨 Off Road Extrem 
 * 🚫 Urcarea pe munti sau pe drumuri nemarcate cu vehicule ce nu sunt de tip off-road. 
 * ✅ Viteza maxima indiferent de situatie, fiind de 50-60 km/h.
 
-### Accidente 
+### 💥 Accidente 
 * 🚫 Intrarea frontala in alt vehicul cu motivul opririi acesteia, indiferent de tipul vehiculului tau.
 
-### Pit Stop 
+### 🛑 Pit Stop 
 * 🚫 Efectuarea manevrei de tip Pit Stop la viteze mai mari de 140-150 km/h.
 * 🚫 Efectuarea manevrei de tip Pit Stop in urmarirea unei motociclete/biciclete.
 
-### Viteza in oras
+### 🚦 Viteza in oras
 * 🚫 Conducerea unui autovehicul cu o viteza mai mare de 200 km/h, exceptie fac situatiile justificate - urmariri,pericole.

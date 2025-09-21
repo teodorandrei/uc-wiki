@@ -25,7 +25,7 @@ Refuzul de a participa sau coopera într-o situație de roleplay este strict int
 
 * Indiferent de natura roleplay-ului (jaf, arestare, negociere, conflict etc.), odată ce ai intrat într-o situație IC, ești obligat să o duci până la capăt într-un mod realist și responsabil.
 
-## Fail Roleplay (FRP)
+## 🎭 Fail Roleplay (FRP)
 
 {% hint style="success" %}
 Fail Roleplay consta in nepotrivirea anumitor actiuni cu context Roleplay.
