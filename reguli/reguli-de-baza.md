@@ -63,7 +63,7 @@ Non-Fear poate fii de doua tipuri:
 * 🚫 Faci apeluri false către poliție;
 * 🚫 Te comporți agresiv când cineva are arma îndreptată spre tine sau încerci să fugi. 
 
-🚫 **IMPORTANT**: Nu aveți voie să luați la mișto sau să aveți aroganțe la adresa organelor de poliție!
+⚠️ **IMPORTANT**: Nu aveți voie să luați la mișto sau să aveți aroganțe la adresa organelor de poliție!
 
 ## 👑 Regula de Aur (RDA)
 

@@ -102,7 +102,7 @@ Transferul se acordă în funcție de numărul de zile pe care un jucător le-a 
 
 ## 📜Reguli Suplimentare
 
-### Reclamații
+### 📝 Reclamații
 {% hint style="warning" %}
 **ATENȚIE**: 
 {% endhint %}
@@ -158,18 +158,18 @@ Orice adunare de jucatori, indiferent de numarul acestora (car meeting,petreceri
 ## ✒️ Tranzactii cu BANI DIN JOC pe BANI REALI
 * Pentru orice tranzactie, contactati fondatorii serverului.
 
-## ✒️ Moduri de grafica
+## 📽️ Moduri de grafica
 {% hint style="info" %}
 Este interzis utilizarea modurilor de grafica care iti pot oferii avantaje in plus fata de toti ceilalti jucatori.
 {% endhint %}
 {% hint style="danger" %}
 **STRICT INTERZIS**: 
 {% endhint %}
-* only day (doar zi);
-* no water (eliminarea apei);
-* no props (eliminarea anumitor obiecte din joc);
-* kill efect (efect vizual atunci cand tragi in cineva);
-* texture modifier (modificarea texturilor);
-* bullet tracer (modificarea modului prin care vezi gloantele).
+* only day (doar zi)
+* no water (eliminarea apei)
+* no props (eliminarea anumitor obiecte din joc)
+* kill efect (efect vizual atunci cand tragi in cineva)
+* texture modifier (modificarea texturilor)
+* bullet tracer (modificarea modului prin care vezi gloantele)
 
 * Se sanctioneaza cu Power Gaming.

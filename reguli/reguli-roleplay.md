@@ -111,9 +111,9 @@ Orice formă de provocare intenționată a poliției este considerată COP BAIT.
 
 Provoking reprezintă provocarea sau instigarea la ceartă a unui jucător.
 
-⚠️ **ATENȚIE**: Evitați provocările nejustificate!
+**ATENȚIE**: Evitați provocările nejustificate!
 
-## AFK
+## 😴 AFK
 
 {% hint style="info" %}
 * Interzis in zone populate sa stati mai mult de 2 minute.
