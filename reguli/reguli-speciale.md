@@ -165,11 +165,12 @@ Este interzis utilizarea modurilor de grafica care iti pot oferii avantaje in pl
 {% hint style="danger" %}
 **STRICT INTERZIS**: 
 {% endhint %}
-* only day (doar zi)
-* no water (eliminarea apei)
-* no props (eliminarea anumitor obiecte din joc)
-* kill efect (efect vizual atunci cand tragi in cineva)
-* texture modifier (modificarea texturilor)
-* bullet tracer (modificarea modului prin care vezi gloantele)
+
+* Only day (doar zi).
+* No water (eliminarea apei).
+* No props (eliminarea anumitor obiecte din joc).
+* Kill efect (efect vizual atunci cand tragi in cineva).
+* Texture modifier (modificarea texturilor).
+* Bullet tracer (modificarea modului prin care vezi gloantele).
 
 * Se sanctioneaza cu Power Gaming.
