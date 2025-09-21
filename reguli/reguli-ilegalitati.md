@@ -6,7 +6,7 @@ Acest document conține regulile specifice pentru activitățile ilegale pe serv
 
 ## 🖼️Zone Publice și 🟢Safe Zone
 
-![Harta](../.gitbook/assets/HARTA.png)
+<figure><img src="../.gitbook/assets/GTAV_ATLUS_8192x8192dwad (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🖼️Zone Publice
 
@@ -20,11 +20,11 @@ Aceste zone sunt considerate publice și pot fi folosite pentru activități ile
 * ATM/Bănci
 * Autostrăzi
 * Sala de forță
-* Mina 
+* Mina
 * Zona de pescuit
 * Ciupercar
-* Crafting 
-* Zone de cules 
+* Crafting
+* Zone de cules
 * Hacker Point
 
 ### 🟢Safe Zone
@@ -44,5 +44,3 @@ Aceste zone sunt strict protejate și nu permit activități ilegale.
 {% hint style="danger" %}
 **ATENȚIE**: Zona ultracentrală (Showroom până la Secția de Poliție și până la Primarie) sunt zone strict protejate!
 {% endhint %}
-
-
