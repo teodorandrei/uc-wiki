@@ -96,7 +96,7 @@ Aceste reguli asigură o distribuție echilibrată a echipei.
 
 ### 🫂Interacțiunea cu Medici
 {% hint style="warning" %}
-Aceste reguli se aplică pentru interacțiunea cu medicii în timpul jafului.
+Aceste reguli se aplică pentru interacțiunea cu medicii în timpul jafului/bataii.
 {% endhint %}
 
 - Permisă alungarea medicilor
@@ -111,18 +111,15 @@ Aceste reguli se aplică pentru interacțiunea cu medicii în timpul jafului.
 
 ### ⚕️Pentru Medici
 {% hint style="warning" %}
-Aceste reguli se aplică specific pentru medici în timpul jafului.
+Aceste reguli se aplică specific pentru medici în timpul jafului/bataii.
+Nesubordonarea la cuvintele unui jucator cu arma in mana duce la sanctiune (Non-Fear)
 {% endhint %}
 
-- Interzis revive în timpul jafului
-- Permis doar după finalizarea jafului
+- Interzis revive în timpul jafului/bataii
+- Permis doar după finalizarea jafului/bataii
 
 {% hint style="danger" %}
 **IMPORTANT**: Medicii asteapta confirmarea politistilor pe dispecer ca zona este sigura. Sau asteapta la circa 2-3 strazi distanta, si urmaresc sunetul armelor de foc ca apoi sa poata intervenii.
-{% endhint %}
-
-{% hint style="warning" %}
-Nesubordonarea la cuvintele unui jucator cu arma in mana duce la sanctiune (Non-Fear)
 {% endhint %}
 
 ### 🥷🏽Pentru Mafioți
