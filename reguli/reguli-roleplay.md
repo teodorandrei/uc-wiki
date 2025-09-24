@@ -82,8 +82,8 @@ Kill & Rob reprezintă uciderea unui jucător și, ulterior, jefuirea acestuia.
 
 ## 📦 Drop & Kill
 
-Drop & Kill x Search & Kill reprezintă forțarea unui jucător să arunce pe jos diferite obiecte și, ulterior, uciderea acestuia, sau uciderea acestuia in urma unei PERCHEZITI.
-Se poate ucide respectivul doar daca nu se CONFORMA (non-fear / pg / bombardier).
+Drop & Kill x Search & Kill reprezintă forțarea unui jucător să arunce pe jos diferite obiecte sau dupa ce a fost perchezitionat, uciderea acestuia.
+Se poate ucide respectivul doar dacă nu se CONFORMA (NF/ PG/ BOMBARDIER/ ETC).
 
 ## 🔞 Roleplay Scârbos (RS)
 
