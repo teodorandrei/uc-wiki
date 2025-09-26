@@ -16,7 +16,7 @@ Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 
 ### 🛡 Zone Protejate
 {% hint style="danger" %}
-**STRICT INTERZIS** în proximitatea (50M):
+**STRICT INTERZIS** în proximitatea (25M):
 {% endhint %}
 
 - Strazile Principale / Autostrazi
