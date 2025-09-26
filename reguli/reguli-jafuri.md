@@ -19,6 +19,7 @@ Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 **STRICT INTERZIS** în proximitatea (50M):
 {% endhint %}
 
+- Strazile Principale / Autostrazi
 - Băncilor
 - Magazinelor
 - Benzinăriilor
@@ -33,13 +34,13 @@ Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 Aceste condiții trebuie respectate pentru orice jaf.
 {% endhint %}
 
-- Jucătorii trebuie să aibă minim 10 ore de joc
-- Interval minim de 60 minute între jafuri la aceeași persoană
-- Nu este permisă jefuirea jucătorilor de bani din bancă
-- Nu poti jefui Buletin , Permis , Orice Act / Licenta
-- Orice grup de jefuitori / jefuitor , poate jefui odata la un interval de 30 de minute
-- Poti jefui o suma maxima de 10.000.000$
-- Se poate jefui in zonele rau famate / red zones / doar in inveralul orar 19:00 - 07:00
+- Jucătorii trebuie să aibă minim 10 ore de joc.
+- Interval minim de 60 minute între jafuri la aceeași persoană.
+- Nu este permisă jefuirea jucătorilor de bani din bancă.
+- Nu poti jefui Buletin, Permis, Orice Act / Licenta.
+- Orice grup de jefuitori / jefuitor , poate jefui odata la un interval de 30 de minute.
+- Poti jefui o suma maxima de 10.000.000$.
+- Se poate jefui in zonele rau famate / red zones / doar in inveralul orar 19:00 - 07:00.
 
 ## 🔪Jafuri la Bijuterii/Bănci
 
@@ -69,7 +70,7 @@ Aceste condiții sunt specifice pentru Banca Pacific.
 {% endhint %}
 
 - Minim 10 membri activi
-- Minim 10 polițiști ON DUTY
+- Minim 8 polițiști ON DUTY
 
 {% hint style="danger" %}
 **IMPORTANT**: Gang-urile nu au voie să jefuiască Banca Pacific!
@@ -86,21 +87,14 @@ Aceste condiții sunt specifice pentru Banca Pacific.
 - Simularea bunăvoinței pentru jaf
 - Uciderea persoanelor percheziționate doar pentru lipsa bunurilor
 
-### 👥Distribuția Echipei
-{% hint style="info" %}
-Aceste reguli asigură o distribuție echilibrată a echipei.
-{% endhint %}
-
-- Maxim 4 membri pe clădiri
-- Maxim 2 membri în patrulă
-
 ### 🫂Interacțiunea cu Medici
 {% hint style="warning" %}
 Aceste reguli se aplică pentru interacțiunea cu medicii în timpul jafului/bataii.
 {% endhint %}
 
-- Permisă alungarea medicilor
-- Interzisă eliminarea completă
+- Permisă alungarea medicilor.
+- NU este permis sa campati medici (de ex. dupa ce omorati politisti plecati si veniti din nou).
+- Interzisă eliminarea completă.
 
 ### 👖Echipament
 {% hint style="danger" %}
