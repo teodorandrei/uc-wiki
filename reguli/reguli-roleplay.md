@@ -157,7 +157,7 @@ Tipuri de comportament in momentul conducerii unui autovehicul care nu respecta 
 
 ### 🚨 Off Road Extrem
 * 🚫 Urcarea pe munti sau pe drumuri nemarcate cu vehicule ce nu sunt de tip off-road. 
-* ✅ Viteza maxima indiferent de situatie, fiind de 80-100 km/h.
+* ✅ Viteza maxima indiferent de situatie, fiind de 60-70 km/h.
 
 ### 💥 Accidente
 * 🚫 Intrarea frontala in alt vehicul cu motivul opririi acesteia, indiferent de tipul vehiculului tau.
