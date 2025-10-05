@@ -52,9 +52,10 @@ Bug Abuse reprezintă folosirea vulnerabilităților serverului.
 **IMPORTANT**: 
 {% endhint %}
 
-- Interzisă folosirea bug-urilor
-- Interzisă divulgarea informațiilor despre bug-uri
-- Raportarea bug-urilor la Fondator/Co-Fondator = recompensă
+- Interzisă folosirea bug-urilor.
+- Interzisă folosirea animatiilor pentru a scapa din anumite situati.
+- Interzisă divulgarea informațiilor despre bug-uri.
+- Raportarea bug-urilor la Fondator/Co-Fondator = recompensă.
 
 {% hint style="warning" %}
 **ATENȚIE**: Putem oferi WIPE la cont și ID pentru abuzuri grave!

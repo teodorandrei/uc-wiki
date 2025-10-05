@@ -14,11 +14,10 @@ Acest document conține regulile specifice pentru activitățile ilegale pe serv
 Aceste zone sunt considerate publice și pot fi folosite pentru activități ilegale, cu excepția zonelor ultracentrale.
 {% endhint %}
 
-* Străzile principale
+* Autostrăzi / Străzile principale
 * Benzinăriile
 * Tuning
 * ATM/Bănci
-* Autostrăzi
 * Sala de forță
 * Mina
 * Zona de pescuit

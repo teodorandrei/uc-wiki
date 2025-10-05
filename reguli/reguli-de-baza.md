@@ -33,10 +33,13 @@ Fail Roleplay consta in nepotrivirea anumitor actiuni cu context Roleplay.
 
 ### Exemple de Fail Roleplay:
 * Daca viata medicului este in pusa in pericol.
-* Daca doresti sa tii pe cineva ostatic in roleplay si il jefuiesti. Daca vin negociatori si ii jefuiesti.
+* Daca doresti sa tii pe cineva ostatic in roleplay si il jefuiesti. 
+* Daca vin negociatori si ii jefuiesti/ucizi.
 * Daca faci ilegalitati cu masinile joburilor legale.
 * Daca jefuiesti un vehicul aflat in afara zonelor de jefuit si intre orele 19:00-07:00. (se sanctioneaza cu FRP - jefuire inafara zonei rosii)
-* Daca iau pe cineva in masina de buna voie (de ex. de la CNN) si il duc pe zone rau famate.
+* Daca faci pit-stop la o masina/motor pe autostrada/strada publica.
+* Daca i-au pe cineva in masina de buna voie (de ex. de la CNN) si il duc pe zone rau famate.
+* Daca omori in zona rau famata fara un minim de rolepaly (de ex. il urmaresti si dupa 3 secunde ii zici sa se dea jos si il omori).
 
 ## 👤 In-Character (IC)
 
@@ -79,7 +82,8 @@ Regula de Aur vizează comportamentul jucătorilor pe server. Orice încălcare 
 * Jigniri și insulte;
 * Comportament toxic;
 * Roleplay nepotrivit fără acord;
-* Comportament de bombardier (Instiga la cearta).
+* Comportament de bombardier (instiga la cearta).
+* Nerespectarea uniformei Staff.
 
 {% hint style="info" %}
 **NOTĂ**: Roleplay-ul de tip sexual/scârbos/divers necesită acordul explicit al tuturor participanților!
@@ -92,6 +96,9 @@ Power-Gaming reprezintă folosirea unor puteri supranaturale sau neacordarea uno
 ### Acțiuni Interzise:
 
 * ❌ Folosirea stației după confiscare;
+* ❌ Folosirea stației in timpul comei (cand esti mort);
+* ❌ Folosirea animatiilor in timpul comei (cand esti mort);
+* ❌ Folosirea animatiilor nepotrivite (de ex. Fly, Trash, etc) in zone publice;
 * ❌ Blocarea căilor de acces pentru a obține avantaj;
 * ❌ Folosirea excesivă a comenzilor /me.
 

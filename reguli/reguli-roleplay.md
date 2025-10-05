@@ -82,7 +82,8 @@ Kill & Rob reprezintă uciderea unui jucător și, ulterior, jefuirea acestuia.
 
 ## 📦 Drop & Kill
 
-Drop & Kill reprezintă forțarea unui jucător să arunce pe jos diferite obiecte și, ulterior, uciderea acestuia.
+Drop & Kill x Search & Kill reprezintă forțarea unui jucător să arunce pe jos diferite obiecte sau dupa ce a fost perchezitionat, uciderea acestuia.
+Se poate ucide respectivul doar dacă nu se CONFORMA (NF/ PG/ BOMBARDIER/ ETC).
 
 ## 🔞 Roleplay Scârbos (RS)
 
@@ -141,7 +142,7 @@ Comă reprezintă momentul în care ești "leșinat" din diverse motive.
 
 * 🚫 Interzis sa te imbraci ca un politist sau medic daca nu faci parte din factiunea respectiva.
 
-## 🌊 Olimpic Swim 
+## 🌊 Olimpic Swim
 * Momentul in care inoti pe o perioada indelungata de timp fara pauze.
 * Se sanctioneaza cu Power Gaming.
 
@@ -154,14 +155,14 @@ Tipuri de comportament in momentul conducerii unui autovehicul care nu respecta 
 ### 🚨 Off Road
 * 🚫 Conducerea unui autovehicul pe drumuri neasfaltate/forestiere cu garda joasa. Viteza maxima permisa 50-60 km/h, si in cazuri urgente, pana la 90-100 km/h.
 
-### 🚨 Off Road Extrem 
+### 🚨 Off Road Extrem
 * 🚫 Urcarea pe munti sau pe drumuri nemarcate cu vehicule ce nu sunt de tip off-road. 
-* ✅ Viteza maxima indiferent de situatie, fiind de 50-60 km/h.
+* ✅ Viteza maxima indiferent de situatie, fiind de 60-70 km/h.
 
-### 💥 Accidente 
+### 💥 Accidente
 * 🚫 Intrarea frontala in alt vehicul cu motivul opririi acesteia, indiferent de tipul vehiculului tau.
 
-### 🛑 Pit Stop 
+### 🛑 Pit Stop
 * 🚫 Efectuarea manevrei de tip Pit Stop la viteze mai mari de 140-150 km/h.
 * 🚫 Efectuarea manevrei de tip Pit Stop in urmarirea unei motociclete/biciclete.
 

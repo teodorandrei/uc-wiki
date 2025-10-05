@@ -4,6 +4,10 @@
 War-urile se desfășoară în zilele de luni, miercuri și vineri, în intervalul orar 21:00 – 23:00.
 {% endhint %}
 
+{% hint style="info" %}
+REAMINTIM CA WAR-URILE SUNT PENTRU A DIVERISIFICA JOACA, VA RUGAM SA LE TRATATI CA ATARE!
+{% endhint %}
+
 {% hint style="danger" %}
 Fiecare facțiune are obligația de a purta echipamentul în culoarea specifică!
 Pentru a evita eventuale erori vizuale, se recomandă utilizarea unei veste și a unei perechi de pantaloni în nuanța respectivă.
