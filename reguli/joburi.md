@@ -6,47 +6,81 @@
 
 {% hint style="info" %}
 - Ore necesare 0
-- Minim level experienta 1
+- Minim level experienta 0
+{% endhint %}
+
+### ⛏️ Miner
+
+{% hint style="info" %}
+- Ore necesare 0
+- Minim level experienta 0
+{% endhint %}
+
+### 🍄 Ciupercar
+
+{% hint style="info" %}
+- Ore necesare 0
+- Minim level experienta 0
+{% endhint %}
+
+### 🎣 Pescar
+
+{% hint style="info" %}
+- Ore necesare 0
+- Minim level experienta 0
 {% endhint %}
 
 ### 🛵 Glovo
 
 {% hint style="info" %}
 - Ore necesare 0
-- Minim level experienta 1
+- Minim level experienta 0
+{% endhint %}
+
+### 🚜 Taietor de iarba 
+
+{% hint style="info" %}
+- Ore necesare 5
+- Minim level experienta 0
 {% endhint %}
 
 ### 🍓 Culegator de capsuni
 
 {% hint style="info" %}
 - Ore necesare 10
-- Minim level experienta 1
-{% endhint %}
-
-### 🚜 Taietor de iarba 
-
-{% hint style="info" %}
-- Ore necesare 25
-- Minim level experienta 1
+- Minim level experienta 0
 {% endhint %}
 
 ### 📦 Curier 
 
 {% hint style="info" %}
-- Ore necesare 50
-- Minim level experienta 1
-{% endhint %}
-
-### ⛽ Trucker
-
-{% hint style="info" %}
-- Ore necesare 75
-- Minim level experienta 1
+- Ore necesare 15
+- Minim level experienta 0
 {% endhint %}
 
 ### 🤿 Scafandru 
 
 {% hint style="info" %}
-- Ore necesare 75
-- Minim level experienta 1
+- Ore necesare 20
+- Minim level experienta 0
+{% endhint %}
+
+### ⛽ Trucker
+
+{% hint style="info" %}
+- Ore necesare 20
+- Minim level experienta 20
+{% endhint %}
+
+### ✈️ Pilot
+
+{% hint style="info" %}
+- Ore necesare 20
+- Minim level experienta 20
+{% endhint %}
+
+## 💼 Joburile ilegale 
+
+{% hint style="info" %}
+- Ore necesare 100+
 {% endhint %}
