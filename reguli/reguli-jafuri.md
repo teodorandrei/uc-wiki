@@ -70,9 +70,7 @@ Aceste condiții sunt specifice pentru Banca Pacific.
 {% endhint %}
 
 - Minim **10 membri activi**
-- Minim **5 polițiști ON DUTY**
-- Maxim **4 pe clădiri**
-- Maxim **3 in patrulă**
+- Minim **8 polițiști ON DUTY**
 
 {% hint style="danger" %}
 **IMPORTANT**: Gang-urile nu au voie să jefuiască Banca Pacific!
