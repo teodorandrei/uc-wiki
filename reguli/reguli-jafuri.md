@@ -28,6 +28,8 @@ Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 - Sedii ale poliției
 - Spital
 - Safezone
+- Zone crafting
+- Zone cules
 
 ### 📓Condiții pentru Jefuire
 {% hint style="info" %}
