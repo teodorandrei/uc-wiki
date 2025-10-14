@@ -126,5 +126,5 @@ Nesubordonarea la cuvintele unui jucator cu arma in mana duce la sanctiune (Non-
 - Interzis respawn-ul cât timp sunt încătușați
 - Interzisă furnizarea de informații prin metode externe
 - Comportament realist când sunt prinși
-- La jaf aveti voie maxim **4 pe clădiri**
-- La jaf aveti voie maxim **3 in patrulă**
+- La jaf aveți voie **maxim 4 pe clădiri**
+- La jaf aveți voie **maxim 3 in patrulă**
