@@ -63,6 +63,8 @@ Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.
 - După părăsirea zonei, obiectivul este evadarea
 - Interzisă rămânerea în apropiere pentru conflict
 
+## 🏧Jafuri la ATM
+- Nu aveți voie să folosiți armele la acest jaf!
 
 ## 🏦Jafuri la Banca Pacific
 
