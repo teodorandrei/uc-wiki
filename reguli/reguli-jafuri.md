@@ -65,6 +65,8 @@ Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.
 
 ## 🏧Jafuri la ATM
 - Nu aveți voie să folosiți armele la acest jaf!
+- Singura cale de scapare la acest jaf este prin evadarea de la locul faptei inaintea sosirii politiei.
+- La acest jaf pot participa doar 2 persoane, una fiind drept sofer iar cealalta spargator.
 
 ## 🏦Jafuri la Banca Pacific
 
