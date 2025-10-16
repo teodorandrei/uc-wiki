@@ -63,7 +63,7 @@
 - Minim level experienta 0
 {% endhint %}
 
-### ⛽ Trucker
+### 🚛 Trucker
 
 {% hint style="info" %}
 - Ore necesare 20
