@@ -49,6 +49,7 @@ Character Kill este un proces în care un personaj își pierde identitatea și 
 ### Situații CK:
 
 * 🔪 Trădarea unei organizații ilegale (mafie);
+* 👮Închisoare pe viață. (acumularea a cinci caziere neplătite);
 * 👑 Decizie luată de către Sindicat sau membru High Staff.
 * 🥷🏽 Se poate face cerere de CK de catre un membru de familie cand jucatorul respectiv (jefuitor) a fost prins de 3 ori la jefuit. (CNP)
 
