@@ -72,9 +72,8 @@ Regula de Aur vizează comportamentul jucătorilor pe server. Orice încălcare 
 Non-Fear reprezintă momentul în care un jucător nu simulează frica într-o situație Roleplay.
 Dacă un jefuitor are asupra lui o bâtă sau o rozetă, iar victima deține o armă de foc, nu se consideră încălcare a regulii Non-Fear în momentul în care victima scoate arma de foc.
 
-{% hint style="info" %}
 **Exemple de Non-Fear**:
-{% endhint %}
+
 * In situatiile in care mergeti la actiune intr-un mod mixt/combinat (oameni ce apartin de organizatii/mafii + civili, sau civili + civili), iar un civil ce apartine grupului vostru (sageata, prietenii ic, etc) este luat ostatic (/th), daca trageti asupra persoanei ce il are ostatic se va considera non-fear. (Luam aceasta decizie deoarece se abuza de acest aspect fara sa existe vreo pierdere)
 * Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.
 * Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
@@ -83,9 +82,9 @@ Dacă un jefuitor are asupra lui o bâtă sau o rozetă, iar victima deține o a
 * Acel moment cand un membru din organizatia ta este luat ca ostatic si tu sau oricare alt membru nu respectă faptul ca aveti un om luat ostatic.
 * În timpul unei percheziții efectuate cu scopul de a jefui, este considerat Non-Fear dacă victima se întoarce și îl atacă pe jefuitor în timp ce este percheziționată/jefuită.
 * Se consideră Non-Fear in momentul in care nu reprezinti frica de autoriate (Politie, Puscarie, Tazer, etc).
-
+{% hint style="success" %}
 ⚠️ **IMPORTANT**: Nu aveți voie să luați la mișto sau să aveți aroganțe la adresa organelor de poliție!
-
+{% endhint %}
 ## 🎮 Power-Gaming (PG)
 
 Power-Gaming reprezintă folosirea unor puteri supranaturale sau neacordarea unor șanse egale în roleplay.
