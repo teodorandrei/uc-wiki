@@ -12,9 +12,9 @@ Roleplay-ul reprezintă simularea vieții reale în joc prin intermediul persona
 
 ### Ce înseamnă un RP bun:
 
-* Acțiuni realiste și logice;
-* Adoptarea unui comportament natural;
-* Interacțiuni credibile;
+* Acțiuni realiste și logice.
+* Adoptarea unui comportament natural.
+* Interacțiuni credibile.
 * Respect față de ceilalți jucători.
 
 ## 🎭 Refuz Roleplay
@@ -56,10 +56,10 @@ Regula de Aur vizează comportamentul jucătorilor pe server. Orice încălcare 
 
 ### Este strict interzis:
 
-* Discriminarea sub orice formă;
-* Jigniri și insulte;
-* Comportament toxic;
-* Roleplay nepotrivit fără acord;
+* Discriminarea sub orice formă.
+* Jigniri și insulte.
+* Comportament toxic.
+* Roleplay necalitativ.
 * Comportament de bombardier (instiga la cearta).
 * Nerespectarea uniformei Staff.
 
@@ -91,11 +91,11 @@ Power-Gaming reprezintă folosirea unor puteri supranaturale sau neacordarea uno
 
 ### Acțiuni Interzise:
 
-* ❌ Folosirea stației după confiscare;
-* ❌ Folosirea stației in timpul comei (cand esti mort);
-* ❌ Folosirea animatiilor in timpul comei (cand esti mort);
-* ❌ Folosirea animatiilor nepotrivite (de ex. Fly, Trash, etc) in zone publice;
-* ❌ Blocarea căilor de acces pentru a obține avantaj;
+* ❌ Folosirea stației după confiscare.
+* ❌ Folosirea stației in timpul comei (cand esti mort).
+* ❌ Folosirea animatiilor in timpul comei (cand esti mort).
+* ❌ Folosirea animatiilor nepotrivite (de ex. Fly, Trash, etc) in zone publice.
+* ❌ Blocarea căilor de acces pentru a obține avantaj.
 * ❌ Folosirea excesivă a comenzilor /me.
 
 ## 🔍 Meta-Gaming (META)
@@ -104,8 +104,8 @@ Meta-Gaming reprezintă folosirea informațiilor din afara jocului pentru a obț
 
 ### Exemple de META interzise:
 
-* Utilizarea informațiilor obținute din Discord în cadrul jocului;
-* Divulgarea sau folosirea informațiilor OOC (Out of Character) în scopuri IC (In Character);
+* Utilizarea informațiilor obținute din Discord în cadrul jocului.
+* Divulgarea sau folosirea informațiilor OOC (Out of Character) în scopuri IC (In Character).
 * Aplicarea cunoștințelor din viețile anterioare ale personajului în prezentul roleplay-ului.
 
 **ATENȚIE**: Orice formă de Meta-Gaming va fi sancționată sever!
