@@ -6,7 +6,7 @@ Aceste reguli stau la baza funcționării server-ului nostru. Respectarea acesto
 
 ## 🎭 Roleplay (RP)
 
-{% hint style="success" %}
+{% hint style="info" %}
 Roleplay-ul reprezintă simularea vieții reale în joc prin intermediul personajului tău. Acțiunile întreprinse trebuie să fie cât mai realiste și să respecte regulile jocului.
 {% endhint %}
 
@@ -27,7 +27,7 @@ Refuzul de a participa sau coopera într-o situație de roleplay este strict int
 
 ## 🎭 Fail Roleplay (FRP)
 
-{% hint style="success" %}
+{% hint style="info" %}
 Fail Roleplay consta in nepotrivirea anumitor actiuni cu context Roleplay.
 {% endhint %}
 
