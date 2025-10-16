@@ -82,7 +82,7 @@ Dacă un jefuitor are asupra lui o bâtă sau o rozetă, iar victima deține o a
 * Acel moment cand un membru din organizatia ta este luat ca ostatic si tu sau oricare alt membru nu respectă faptul ca aveti un om luat ostatic.
 * În timpul unei percheziții efectuate cu scopul de a jefui, este considerat Non-Fear dacă victima se întoarce și îl atacă pe jefuitor în timp ce este percheziționată/jefuită.
 * Se consideră Non-Fear in momentul in care nu reprezinti frica de autoriate (Politie, Puscarie, Tazer, etc).
-{% hint style="success" %}
+{% hint style="info" %}
 ⚠️ **IMPORTANT**: Nu aveți voie să luați la mișto sau să aveți aroganțe la adresa organelor de poliție!
 {% endhint %}
 ## 🎮 Power-Gaming (PG)
