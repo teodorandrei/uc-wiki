@@ -41,7 +41,7 @@ Aceste condiții trebuie respectate pentru orice jaf.
 - Nu este permisă jefuirea jucătorilor de bani din bancă.
 - Nu poti jefui Buletin, Permis, Orice Act / Licenta.
 - Orice grup de jefuitori / jefuitor , poate jefui odata la un interval de 30 de minute.
-- Poti jefui o suma maxima de 10.000.000$.
+- Poti jefui o suma maxima de 1.000.000$.
 - Se poate jefui in zonele rau famate / red zones / doar in inveralul orar 19:00 - 07:00.
 
 ## 🔪Jafuri la Bijuterii/Bănci
