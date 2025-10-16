@@ -2,7 +2,7 @@
 
 ## 💼 Joburile legale 
 
-### 🪛 Electrician
+### ⚡ Electrician
 
 {% hint style="info" %}
 - Ore necesare 0
@@ -69,18 +69,19 @@
 
 {% hint style="info" %}
 - Ore necesare 20
-- Minim level experienta 20
+- Minim level experienta 0
 {% endhint %}
 
 ### ✈️ Pilot
 
 {% hint style="info" %}
 - Ore necesare 20
-- Minim level experienta 20
+- Minim level experienta 0
 {% endhint %}
 
-## 💼 Joburile ilegale 
+## 🍃 JOBURILE ILEGALE 👨🏻‍💻
 
 {% hint style="info" %}
 - Ore necesare 100+
+- Minim level experienta 0
 {% endhint %}
