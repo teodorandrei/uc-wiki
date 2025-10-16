@@ -1,5 +1,3 @@
-# Joburi
-
 ## 💼 Joburile legale 
 
 ### ⚡ Electrician
