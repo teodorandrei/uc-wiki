@@ -74,7 +74,8 @@ Dacă un jefuitor are asupra lui o bâtă sau o rozetă, iar victima deține o a
 
 **Exemple de Non-Fear**:
 
-* In situatiile in care mergeti la actiune intr-un mod mixt/combinat (oameni ce apartin de organizatii/mafii + civili, sau civili + civili), iar un civil ce apartine grupului vostru (sageata, prietenii ic, etc) este luat ostatic (/th), daca trageti asupra persoanei ce il are ostatic se va considera non-fear. (Luam aceasta decizie deoarece se abuza de acest aspect fara sa existe vreo pierdere)
+* In situatiile in care mergeti la actiune intr-un mod mixt/combinat (oameni ce apartin de organizatii/mafii + civili, sau civili + civili), iar un civil ce apartine grupului vostru (sageata, prietenii ic, etc) este luat ostatic (/th), daca trageti asupra persoanei ce il are ostatic se va considera non-fear. 
+Luam aceasta decizie deoarece se abuza de acest aspect fara sa existe vreo pierdere
 * Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.
 * Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
 * Se consideră Non-Fear in momentul in care chiar daca esti intr-o zona publica , tu abuzezi de această regulă si incepi sa vorbesti neadecvat cu alte persoane stiind ca regulamentul cumva te salvează ca esti in acea zona.
