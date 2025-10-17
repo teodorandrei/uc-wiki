@@ -10,7 +10,7 @@ Random Deathmatch reprezintă atacarea sau uciderea unui, sau mai multi jucător
 Acest comportament este strict interzis!
 
 **Consecințe extra:**
-* Pierderea armelor;
+* Pierderea armelor.
 
 ## 🚗 Vehicle Deathmatch (VDM)
 
@@ -33,8 +33,8 @@ Car-Ram reprezintă momentul în care doi sau mai mulți jucători se lovesc cu 
 Revenge Kill reprezintă momentul când un jucător îl omoară pe altul, iar după ce primește respawn, se întoarce după același jucător cu scopul de a-l omorî în mai puțin de jumătate de oră.
 
 **De Reținut:**
-* ⏰ Așteptați minim 30 minute obligatoriu;
-* 🧠 Personajul nu își amintește circumstanțele morții;
+* ⏰ Așteptați minim 30 minute obligatoriu.
+* 🧠 Personajul nu își amintește circumstanțele morții.
 * ❌ Este interzisă urmărirea aceluiași jucător.
 
 ## ☠️ Player-Kill (PK)
@@ -46,13 +46,13 @@ Player-Kill reprezintă omorârea unui jucător care nu își mai aduce aminte d
 Character Kill este un proces în care un personaj își pierde identitatea și toată influența acumulată pe server.
 
 **Situații CK:**
-* 🔪 Trădarea unei organizații ilegale (mafie);
-* 👮 Închisoare pe viață. (acumularea a cinci caziere neplătite);
+* 🔪 Trădarea unei organizații ilegale (mafie).
+* 👮 Închisoare pe viață. (acumularea a cinci caziere neplătite).
 * 👑 Decizie luată de către membru High Staff in urma unui roleplay mai complex.
 * 👺 Se poate face cerere de CK, de catre o mafie cand jucatorul respectiv (jefuitor) a fost prins de 3 ori la jefuit intr-un timp foarte scurt. (CNP)
 
 {% hint style="info" %}
-Este strict interzisă distribuirea averii unui jucător care primește CK!;
+Este strict interzisă distribuirea averii unui jucător care primește CK!.
 Orice încercare de a lăsa averea la altcineva se va sancționa cu **BAN PERMANENT**.
 {% endhint %}
 
@@ -61,8 +61,8 @@ Orice încercare de a lăsa averea la altcineva se va sancționa cu **BAN PERMAN
 Rob & Kill reprezintă jefuirea unui jucător și, ulterior, omorârea acestuia.
 
 **De retinut**:
-* ✅ Permis doar dacă victima a inițiat conflictul;
-* ⚠️ Necesită context roleplay valid;
+* ✅ Permis doar dacă victima a inițiat conflictul.
+* ⚠️ Necesită context roleplay valid.
 * ❌ Interzis în zone safe/publice.
 
 ## 🔫 Kill & Rob (KR)
