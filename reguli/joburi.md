@@ -1,4 +1,4 @@
-## 💼 Joburile legale 
+## 💼 JOBURI LEGALE
 
 ### ⚡ Electrician
 
