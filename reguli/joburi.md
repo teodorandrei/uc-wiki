@@ -77,7 +77,7 @@
 - Minim level experienta 0
 {% endhint %}
 
-## 🍃 JOBURILE ILEGALE
+## 🍃 JOBURI ILEGALE
 
 ### 👨🏻‍💻 Hacker
 
