@@ -1,4 +1,4 @@
-# Harta Ilegalitati
+# Safezone si Ilegalitati
 
 {% hint style="info" %}
 Acest document conține regulile specifice pentru activitățile ilegale pe server.
