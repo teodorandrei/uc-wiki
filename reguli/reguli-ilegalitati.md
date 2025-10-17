@@ -35,6 +35,7 @@ Aceste zone sunt strict protejate și nu permit activități ilegale.
 {% endhint %}
 
 * Spital
+* Garaje
 * Showroom
 * Secția de poliție
 * Locul unde se află joburile
