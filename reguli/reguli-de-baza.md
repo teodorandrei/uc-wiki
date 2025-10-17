@@ -35,6 +35,7 @@ Fail Roleplay consta in nepotrivirea anumitor actiuni cu context Roleplay.
 * Daca faci ilegalitati cu masinile joburilor legale.
 * Daca faci pit-stop la o masina/motor pe autostrada/strada publica.
 * Daca i-au pe cineva in masina de buna voie (de ex. de la CNN) si il duc pe zone rau famate.
+* Daca omori echipajele medicale doar ca sunt pe zone rau famate, sau deduci ca vrea sa ajute pe cineva care este in coma.
 * Daca omori in zona rau famata fara un minim de rolepaly (de ex. il urmaresti si dupa 3 secunde ii zici sa se dea jos si il omori).
   
 ## 👤 In-Character (IC)
