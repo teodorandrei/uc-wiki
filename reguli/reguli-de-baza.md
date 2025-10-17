@@ -16,7 +16,7 @@ Roleplay-ul reprezintă simularea vieții reale în joc prin intermediul persona
 * Interacțiuni credibile.
 * Respect față de ceilalți jucători.
 
-## 🎭 Refuz Roleplay
+## 🎭 Refuz Roleplay (RR)
 
 Refuzul de a participa sau coopera într-o situație de roleplay este strict interzis. Aceasta presupune acțiuni precum ignorarea comenzilor primite într-un roleplay, refuzul de a răspunde la inițiative RP legitime sau pur și simplu evitarea intenționată a implicării.
 
@@ -121,11 +121,6 @@ Meta-Gaming reprezintă folosirea informațiilor din afara jocului pentru a obț
 Orice formă de Meta-Gaming va fi sancționată sever!
 {% endhint %}
 
-## 💬 Mixing
+## 💬 Mixing (MIX)
 
 Mixing-ul reprezintă transmiterea informațiilor OOC (Out of Character) cu cele IC (In-Character) sau invers.
-
-## 💬 Mixing Critic
-
-Acesta se sancționează cu 2 warn-uri, în funcție de gravitatea situației.
-
