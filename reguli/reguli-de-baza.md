@@ -97,7 +97,7 @@ Cop-Fear reprezintă momentul in care nu reprezinți frică față de autoriate 
 * Se interzice ca odată ce ajungeti la celule, chiar inainte sa fiti procesati, să vă tocmiți cu organele PD pentru a cere reducere la amenda/sentinta.
 * Se interzice scoaterea placutelor de inmatriculare si folosirea vehiculului in zonele publice fara un motiv bine intemeiat sau un context RP favorabil se va considera Cop-Bai si veti fi sanctionati daca stati fara numere de inmatriculare fara un motiv bun.
 {% hint style="info" %}
-AVETI GRIJA, MOTIV BUN NU ESTE: CA SA NU-MI FACA POLITIA MANDAT CA FAC DRIFTURI LA FLEECA/PRIMARIE/URMARIRI!!!
+AVETI GRIJA, MOTIV BUN **NU ESTE**: CA SA NU-MI FACA POLITIA MANDAT CA FAC DRIFTURI LA FLEECA/PRIMARIE/URMARIRI!!!
 {% endhint %}
 
 ## 🎮 Power-Gaming (PG)
