@@ -74,9 +74,9 @@ Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 ## ⚕️Pentru Medici
 
 **Aceste reguli se aplică specific pentru medici în timpul jafului/bataii.**
-Nesubordonarea la cuvintele unui jucator cu arma in mana duce la sanctiune (Non-Fear)
 
 **IMPORTANT**
+- Nesubordonarea la cuvintele unui jucator cu arma in mana duce la sanctiune (Non-Fear)
 - Interzis revive în timpul jafului/bataii
 - Permis doar după finalizarea jafului/bataii
 - Medicii asteapta confirmarea politistilor pe dispecer ca zona este sigura. 
