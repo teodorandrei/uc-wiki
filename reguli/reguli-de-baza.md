@@ -93,7 +93,7 @@ Cop-Fear reprezintă momentul in care nu reprezinți frică față de autoriate 
 * Se interzice luarea în derâdere sub orice formă a polițiștilor. (luare la mișto, bătaia de joc, comportament necorespunzator)
 * Se interzice Cop-Bait-ul, care reprezintă instigarea organelor de poliție în mod intenționat. (drifturi lângă un polițist, în fața secției de poliție, trecerea pe culoarea roșie a semaforului în mod intenționat atunci când un polițist este în preajmă).
 * Se interzice ca odată ce ajungeti la celule, chiar inainte sa fiti procesati, să vă tocmiți cu organele PD pentru a cere reducere la amenda/sentinta.
-* Se interzice scoaterea placutelor de inmatriculare si folosirea vehiculului in zonele publice fara un motiv bine intemeiat sau un context RP favorabil se va considera Cop-Bai si veti fi sanctionati daca stati fara numere de inmatriculare fara un motiv bun.
+* Se interzice scoaterea placutelor de inmatriculare si folosirea vehiculului in zonele publice fara un motiv bine intemeiat sau un context RP favorabil se va considera Cop-Bait si veti fi sanctionati daca stati fara numere de inmatriculare fara un motiv bun.
 {% hint style="info" %}
 AVETI GRIJA, MOTIV BUN **NU ESTE**: CA SA NU-MI FACA POLITIA MANDAT CA FAC DRIFTURI LA FLEECA/PRIMARIE/URMARIRI!!!
 {% endhint %}
