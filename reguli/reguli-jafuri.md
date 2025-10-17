@@ -88,7 +88,7 @@ Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 - Interzis respawn-ul cât timp sunt încătușați
 - Interzisă furnizarea de informații prin metode externe
 - Comportament realist când sunt prinși
-- La jaf aveți voie **maxim 4 pe clădiri**
+- La jaf aveți voie **maxim 5 pe clădiri**
 - La jaf aveți voie **maxim 3 in patrulă**
 
 ## 👮Pentru Politisti
