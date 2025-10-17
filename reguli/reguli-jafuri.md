@@ -16,6 +16,7 @@ Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 - Simularea bunăvoinței pentru jaf.
 - Uciderea persoanelor percheziționate doar pentru lipsa bunurilor.
 - Lockpick in proximitate de jobul de **SCAFANDRU**.
+- Lockpick in proximitate de **SAFEZONE**.
 
 ## 🛡 Zone protejate
 
