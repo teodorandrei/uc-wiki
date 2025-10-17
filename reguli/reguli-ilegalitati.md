@@ -48,8 +48,7 @@ Aceste zone sunt strict protejate și nu permit activități ilegale.
 ## 🔴Red Zone
 
 {% hint style="info" %}
-Aceste zone permit activități ilegale precum jefuiri/rapiri.
-Este necesar sa faceti un minim de roleplay in zonele respective.
+Aceste zone permit activități ilegale precum jefuiri/rapiri, este necesar sa faceti un minim de roleplay in zonele respective.
 {% endhint %}
 
 * Groove Zone
