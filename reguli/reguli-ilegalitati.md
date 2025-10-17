@@ -15,16 +15,17 @@ Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 Aceste zone sunt considerate publice și pot fi folosite pentru activități ilegale, cu excepția zonelor ultracentrale.
 {% endhint %}
 
-* Autostrăzi/Străzile principale
+* Autostrăzi
+* Străzi principale
 * Benzinăriile
 * Tuning
 * ATM/Bănci
 * Sala de forță
 * Mina
 * Ciupercar
-* Crafting
 * Zona de pescuit
 * Zone de cules
+* Drug Lab
 * Hacker point
 
 ## 🟢Safe Zone
