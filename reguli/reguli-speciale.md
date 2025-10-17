@@ -80,14 +80,14 @@ Transferul se acordă în funcție de numărul de zile pe care un jucător le-a 
 - Interzisă interpretarea regulamentului.
 - Interzise acuzațiile fără dovezi.
 
-### 🤝 Comportament pe Server
+## 🤝 Comportament pe Server
 
 **IMPORTANT**: 
 - Joaca pe contul altcuiva.
 - Interacțiunea de pe contul unui prieten.
 - Participarea la support fără implicare în roleplay.
 
-### 🛠️ Crash
+## 🛠️ Crash
 
 **IMPORTANT**: 
 - Anunțați crash-ul în maxim 5 minute pe Discord
