@@ -1,24 +1,24 @@
-# ❗Reguli pentru Jafuri
+# Regulament Jafuri / Jefuiri
 
 {% hint style="info" %}
-Acest document conține regulile specifice pentru jafuri pe server. Respectarea acestor reguli este obligatorie pentru toți jucătorii.
+Acest document conține regulile specifice pentru jafuri pe server sau conditiile de a pute jefui corect.
+Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 {% endhint %}
 
-## 🔫Jefuirea Jucătorilor
+## 🔫Jefuirea jucătorilor
 
-### 🕓Interval de Timp
-{% hint style="warning" %}
-Aceste intervale de timp sunt obligatorii pentru toate jafurile.
-{% endhint %}
+**Jefuirea jucatorilor este:**
+- Permisă doar între 19:00 - 07:00.
+- Excepție: zonele deținute prin war-uri (TURFS).
 
-- Permisă doar între 19:00 - 07:00
-- Excepție: zonele deținute prin war-uri (TURFS)
+**STRICT INTERZIS**: 
+- Forțarea retragerii banilor din bancă.
+- Simularea bunăvoinței pentru jaf.
+- Uciderea persoanelor percheziționate doar pentru lipsa bunurilor.
 
-### 🛡 Zone Protejate
-{% hint style="danger" %}
-**STRICT INTERZIS** în proximitatea (25M):
-{% endhint %}
+## 🛡 Zone protejate
 
+**In proximitatea (25M):**
 - Strazile Principale / Autostrazi
 - Băncilor
 - Magazinelor
@@ -31,104 +31,73 @@ Aceste intervale de timp sunt obligatorii pentru toate jafurile.
 - Zone crafting
 - Zone cules
 
-### 📓Condiții pentru Jefuire
-{% hint style="info" %}
-Aceste condiții trebuie respectate pentru orice jaf.
-{% endhint %}
+## 📓Condiții pentru jefuire
 
+**Aceste condiții trebuie respectate pentru orice jaf:**
 - Jucătorii trebuie să aibă minim 10 ore de joc.
 - Interval minim de 60 minute între jafuri la aceeași persoană.
 - Nu este permisă jefuirea jucătorilor de bani din bancă.
 - Nu poti jefui Buletin, Permis, Orice Act / Licenta.
-- Orice grup de jefuitori / jefuitor , poate jefui odata la un interval de 30 de minute.
+- Orice grup de jefuitori / jefuitor, poate jefui odata la un interval de 30 de minute.
 - Poti jefui o suma maxima de 1.000.000$.
-- Se poate jefui in zonele rau famate / red zones / doar in inveralul orar 19:00 - 07:00.
 
-## 🔪Jafuri la Bijuterii/Bănci
+## 🛑Condiții jafuri la Bijuterii/Bănci
 
-### 🛑Condiții
-{% hint style="warning" %}
-Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.
-{% endhint %}
+**Aceste condiții sunt obligatorii pentru jafurile la bijuterii și bănci.**
+- Doar pentru Mafii.
+- Minim 10, maxim 20 membri din facțiune.
+- Fără ostatici.
 
-- Doar pentru Mafii
-- Minim 10, maxim 30 membri din facțiune
-- Fără ostatici
+## 📝Reguli de fugă
 
-### 📝Reguli de Fugă
-{% hint style="danger" %}
 **IMPORTANT**: 
-{% endhint %}
-
-- După părăsirea zonei, obiectivul este evadarea
-- Interzisă rămânerea în apropiere pentru conflict
+- După părăsirea zonei, obiectivul este evadarea.
+- Interzisă rămânerea în apropiere pentru conflict.
+- Interzisă reintoarcerea în apropiere 30 de minute odata parasit locul respectiv (jafului).
 
 ## 🏧Jafuri la ATM
 - Nu aveți voie să folosiți armele la acest jaf!
 - Singura cale de scapare la acest jaf este prin evadarea de la locul faptei inaintea sosirii politiei.
 - La acest jaf pot participa doar 2 persoane, una fiind drept sofer iar cealalta spargator.
 
-## 🏦Jafuri la Banca Pacific
+## 🩺Interacțiunea cu Medici
 
-### ✨Condiții Speciale
-{% hint style="warning" %}
-Aceste condiții sunt specifice pentru Banca Pacific.
-{% endhint %}
-
-- Minim **10 membri activi**
-- Minim **8 polițiști ON DUTY**
-
-{% hint style="danger" %}
-**IMPORTANT**: Gang-urile nu au voie să jefuiască Banca Pacific!
-{% endhint %}
-
-## 🗒️Reguli Generale pentru Jafuri
-
-### 🚫Interdicții
-{% hint style="danger" %}
-**STRICT INTERZIS**: 
-{% endhint %}
-
-- Forțarea retragerii banilor din bancă
-- Simularea bunăvoinței pentru jaf
-- Uciderea persoanelor percheziționate doar pentru lipsa bunurilor
-
-### 🫂Interacțiunea cu Medici
-{% hint style="warning" %}
-Aceste reguli se aplică pentru interacțiunea cu medicii în timpul jafului/bataii.
-{% endhint %}
-
+**Aceste reguli se aplică pentru interacțiunea cu medicii în timpul jafului/bataii:**
 - Permisă alungarea medicilor.
 - NU este permis sa campati medici (de ex. dupa ce omorati politisti plecati si veniti din nou).
 - Interzisă eliminarea completă.
 
-### 👖Echipament
-{% hint style="danger" %}
-**OBLIGATORIU**: Echipament diferit față de poliție/alte familii
-{% endhint %}
+## 👖Echipament
 
-## 🛑Restricții Speciale
+**Echipament diferit față de poliție/alte mafii!**
 
-### ⚕️Pentru Medici
-{% hint style="warning" %}
-Aceste reguli se aplică specific pentru medici în timpul jafului/bataii.
+## ⚕️Pentru Medici
+
+**Aceste reguli se aplică specific pentru medici în timpul jafului/bataii.**
 Nesubordonarea la cuvintele unui jucator cu arma in mana duce la sanctiune (Non-Fear)
-{% endhint %}
 
+**IMPORTANT**
 - Interzis revive în timpul jafului/bataii
 - Permis doar după finalizarea jafului/bataii
+- Medicii asteapta confirmarea politistilor pe dispecer ca zona este sigura. 
+- Asteapta la circa 2-3 strazi distanta, si urmaresc sunetul armelor de foc ca apoi sa poata intervenii.
 
-{% hint style="danger" %}
-**IMPORTANT**: Medicii asteapta confirmarea politistilor pe dispecer ca zona este sigura. Sau asteapta la circa 2-3 strazi distanta, si urmaresc sunetul armelor de foc ca apoi sa poata intervenii.
-{% endhint %}
+## 🤙🏾Pentru Mafioți
 
-### 🥷🏽Pentru Mafioți
-{% hint style="danger" %}
-**IMPORTANT**: Aceste reguli se aplică specific pentru mafioți.
-{% endhint %}
-
+**Aceste reguli se aplică specific pentru mafioți.**
 - Interzis respawn-ul cât timp sunt încătușați
 - Interzisă furnizarea de informații prin metode externe
 - Comportament realist când sunt prinși
 - La jaf aveți voie **maxim 4 pe clădiri**
 - La jaf aveți voie **maxim 3 in patrulă**
+
+## 👮Pentru Politisti
+
+**Aceste reguli se aplică specific pentru politie.**
+- Interzisă confiscarea obiectelor la locul faptei
+- Interzisă spargerea rotilor
+- Interzis deschiderea focului daca se predau
+- Interzis deschiderea focului fara un motiv bine intemeiat
+{% hint style="info" %}
+Scopul politiei este de a prinde cati mai multi in viata!
+{% endhint %}
