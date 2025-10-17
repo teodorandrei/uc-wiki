@@ -77,9 +77,33 @@
 - Minim level experienta 0
 {% endhint %}
 
-## 🍃 JOBURILE ILEGALE 👨🏻‍💻
+## 🍃 JOBURILE ILEGALE
+
+### 👨🏻‍💻 Hacker
 
 {% hint style="info" %}
-- Ore necesare 100+
+- Ore necesare 100
 - Minim level experienta 0
 {% endhint %}
+
+### 🍁 Marijuana
+
+{% hint style="info" %}
+- Ore necesare 200
+- Minim level experienta 0
+{% endhint %}
+
+### 🧪 PCP
+
+{% hint style="info" %}
+- Ore necesare 300
+- Minim level experienta 0
+{% endhint %}
+
+### 🌿 Etnobotanice
+
+{% hint style="info" %}
+- Ore necesare 400
+- Minim level experienta 0
+{% endhint %}
+
