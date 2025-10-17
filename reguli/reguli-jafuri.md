@@ -96,7 +96,9 @@ Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 ## 👮Pentru Politisti
 
 **Aceste reguli se aplică specific pentru politie.**
-- Interzis la jaf spargerea rotilor
+- La jaf nu aveti voie sa spargeti rotile
+- In urmariri nu aveti voie sa deschideti focul fara un motiv bine intemeiat
+- In urmariri nu aveti voie sa faceti Pit-Stop
 - Interzis deschiderea focului daca se predau
 - Interzis deschiderea focului fara un motiv bine intemeiat
 - Interzisă confiscarea obiectelor la locul faptei
