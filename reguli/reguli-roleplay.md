@@ -118,8 +118,6 @@ Momentul in care inoti pe o perioada indelungata de timp fara pauze.
 
 ## 🚧 Condus Non-Roleplay (CNR)
 
-Codus Non-Roleplay reprezinta momentul i
-
 **🚨 Off Road**
 * 🚫 Conducerea unui autovehicul pe drumuri neasfaltate/forestiere cu garda joasa. 
 * ✅ Viteza maxima permisa 60-80 km/h, si in cazuri urgente, pana la 80-100 km/h.
@@ -130,6 +128,10 @@ Codus Non-Roleplay reprezinta momentul i
 
 **💥 Accidente**
 * 🚫 Intrarea frontala in alt vehicul cu motivul opririi acesteia, indiferent de tipul vehiculului tau.
+
+**🛑In Oras**
+* 🚫 Circularea cu peste 200km/h in zone populate/publice.
+* 🚫 Circularea pe contrasens, pe autostrada sau pe strazi circulate des fara un motiv IC bine intemeiat.
 
 **🛑 Pit Stop**
 * 🚫 Efectuarea manevrei de tip Pit Stop la viteze mai mari de 120-150 km/h.
