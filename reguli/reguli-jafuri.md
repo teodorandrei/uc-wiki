@@ -55,7 +55,7 @@ Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 **IMPORTANT**: 
 - După părăsirea zonei, obiectivul este evadarea.
 - Interzisă rămânerea în apropiere pentru conflict.
-- Interzisă reintoarcerea în apropiere 30 de minute odata parasit locul respectiv (jafului).
+- Interzisă reintoarcerea în apropiere 30 de minute odata parasit locul respectiv (jaf).
 
 ## 🏧Jafuri la ATM
 - Nu aveți voie să folosiți armele la acest jaf!
