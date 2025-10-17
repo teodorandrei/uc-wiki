@@ -5,7 +5,7 @@ Acest document conține regulile specifice pentru activitățile ilegale pe serv
 Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 {% endhint %}
 
-## 🖼️Zone Publice și 🟢Safe Zone
+## 🖼️Harta
 
 <figure><img src="../.gitbook/assets/GTAV_ATLUS_8192x8192dwad (1).png" alt=""><figcaption></figcaption></figure>
 
