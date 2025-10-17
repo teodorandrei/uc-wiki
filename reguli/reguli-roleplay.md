@@ -101,7 +101,7 @@ Provoking reprezintă provocarea sau instigarea la ceartă a unui jucător.
 Evitați provocările nejustificate!
 {% endhint %}
 
-## 😵 Comă
+## 😵 Comă (DEAD)
 
 Comă reprezintă momentul în care ești "leșinat" din diverse motive.
 
@@ -111,16 +111,14 @@ Comă reprezintă momentul în care ești "leșinat" din diverse motive.
 - Interzisă vorba.
 - Poți primi ajutor medical (cu excepția schimburilor de focuri).
 
-## 🌊 Olimpic Swim
+## 🌊 Olimpic Swim (OSW)
 
 Momentul in care inoti pe o perioada indelungata de timp fara pauze.
 * Se sanctioneaza cu Power-Gaming (PG).
 
-## 🚧 Condus Non-Roleplay
+## 🚧 Condus Non-Roleplay (CNR)
 
-{% hint style="info" %}
-Tipuri de comportament in momentul conducerii unui autovehicul care nu respecta regulile Roleplay.
-{% endhint %}
+Codus Non-Roleplay reprezinta momentul i
 
 **🚨 Off Road**
 * 🚫 Conducerea unui autovehicul pe drumuri neasfaltate/forestiere cu garda joasa. 
@@ -134,5 +132,5 @@ Tipuri de comportament in momentul conducerii unui autovehicul care nu respecta 
 * 🚫 Intrarea frontala in alt vehicul cu motivul opririi acesteia, indiferent de tipul vehiculului tau.
 
 **🛑 Pit Stop**
-* 🚫 Efectuarea manevrei de tip Pit Stop la viteze mai mari de 80-100 km/h.
+* 🚫 Efectuarea manevrei de tip Pit Stop la viteze mai mari de 120-150 km/h.
 * 🚫 Efectuarea manevrei de tip Pit Stop in urmarirea unei motociclete/biciclete.
