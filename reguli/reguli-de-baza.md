@@ -10,8 +10,7 @@ Aceste reguli stau la baza funcționării server-ului nostru. Respectarea acesto
 Roleplay-ul reprezintă simularea vieții reale în joc prin intermediul personajului tău. Acțiunile întreprinse trebuie să fie cât mai realiste și să respecte regulile jocului.
 {% endhint %}
 
-### Ce înseamnă un RP bun:
-
+**Ce înseamnă un RP bun**:
 * Acțiuni realiste și logice.
 * Adoptarea unui comportament natural.
 * Interacțiuni credibile.
@@ -21,9 +20,9 @@ Roleplay-ul reprezintă simularea vieții reale în joc prin intermediul persona
 
 Refuzul de a participa sau coopera într-o situație de roleplay este strict interzis. Aceasta presupune acțiuni precum ignorarea comenzilor primite într-un roleplay, refuzul de a răspunde la inițiative RP legitime sau pur și simplu evitarea intenționată a implicării.
 
-### De reținut:
-
+{% hint style="info" %}
 * Indiferent de natura roleplay-ului (jaf, arestare, negociere, conflict etc.), odată ce ai intrat într-o situație IC, ești obligat să o duci până la capăt într-un mod realist și responsabil.
+{% endhint %}
 
 ## 🎭 Fail Roleplay (FRP)
 
@@ -31,7 +30,7 @@ Refuzul de a participa sau coopera într-o situație de roleplay este strict int
 Fail Roleplay consta in nepotrivirea anumitor actiuni cu context Roleplay.
 {% endhint %}
 
-### Exemple de Fail Roleplay:
+**Exemple de Fail Roleplay:**
 * Daca vin negociatori si ii jefuiesti/ucizi.
 * Daca faci ilegalitati cu masinile joburilor legale.
 * Daca faci pit-stop la o masina/motor pe autostrada/strada publica.
@@ -50,12 +49,10 @@ Reprezintă comportamentul și acțiunile jucătorului, în afara personajului.
 
 Regula de Aur vizează comportamentul jucătorilor pe server. Orice încălcare va fi sancționată sever!
 
-### Sancțiuni:
-
+**Sancțiuni**:
 * Ban temporar/permanent sau 2 warn-uri In-Game (în funcție de gravitate)
 
-### Este strict interzis:
-
+**Este strict interzis**:
 * Discriminarea sub orice formă.
 * Jigniri și insulte.
 * Comportament toxic.
@@ -73,7 +70,6 @@ Non-Fear reprezintă momentul în care un jucător nu simulează frica într-o s
 Dacă un jefuitor are asupra lui o bâtă sau o rozetă, iar victima deține o armă de foc, nu se consideră încălcare a regulii Non-Fear în momentul în care victima scoate arma de foc.
 
 **Exemple de Non-Fear**:
-
 * In situatiile in care mergeti la actiune intr-un mod mixt/combinat (oameni ce apartin de organizatii/mafii + civili, sau civili + civili), iar un civil ce apartine grupului vostru (sageata, prietenii ic, etc) este luat ostatic (/th), daca trageti asupra persoanei ce il are ostatic se va considera non-fear.
 {% hint style="info" %}
 Luam aceasta decizie deoarece se abuza de acest aspect fara sa existe vreo pierdere.
@@ -85,6 +81,7 @@ Luam aceasta decizie deoarece se abuza de acest aspect fara sa existe vreo pierd
 * Acel moment cand un membru din organizatia ta este luat ca ostatic si tu sau oricare alt membru nu respectă faptul ca aveti un om luat ostatic.
 * În timpul unei percheziții efectuate cu scopul de a jefui, este considerat Non-Fear dacă victima se întoarce și îl atacă pe jefuitor în timp ce este percheziționată/jefuită.
 * Se consideră Non-Fear in momentul in care nu reprezinti frica de autoriate (Politie, Puscarie, Tazer, etc).
+
 {% hint style="info" %}
 ⚠️ **IMPORTANT**: Nu aveți voie să luați la mișto sau să aveți aroganțe la adresa organelor de poliție!
 {% endhint %}
@@ -104,8 +101,7 @@ AVETI GRIJA, MOTIV BUN **NU ESTE**: CA SA NU-MI FACA POLITIA MANDAT CA FAC DRIFT
 
 Power-Gaming reprezintă folosirea unor puteri supranaturale sau neacordarea unor șanse egale în roleplay.
 
-### Acțiuni Interzise:
-
+**Acțiuni Interzise**:
 * ❌ Folosirea stației după confiscare.
 * ❌ Folosirea stației in timpul comei (cand esti mort).
 * ❌ Folosirea animatiilor in timpul comei (cand esti mort).
@@ -117,13 +113,13 @@ Power-Gaming reprezintă folosirea unor puteri supranaturale sau neacordarea uno
 
 Meta-Gaming reprezintă folosirea informațiilor din afara jocului pentru a obține avantaje în joc.
 
-### Exemple de META interzise:
-
+**Exemple de META interzise**:
 * Utilizarea informațiilor obținute din Discord în cadrul jocului.
 * Divulgarea sau folosirea informațiilor OOC (Out of Character) în scopuri IC (In Character).
 * Aplicarea cunoștințelor din viețile anterioare ale personajului în prezentul roleplay-ului.
-
-**ATENȚIE**: Orice formă de Meta-Gaming va fi sancționată sever!
+{% hint style="info" %}
+Orice formă de Meta-Gaming va fi sancționată sever!
+{% endhint %}
 
 ## 💬 Mixing
 
