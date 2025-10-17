@@ -96,8 +96,8 @@ Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 ## 👮Pentru Politisti
 
 **Aceste reguli se aplică specific pentru politie.**
+- Interzisă la jaf spargerea rotilor
 - Interzisă confiscarea obiectelor la locul faptei
-- Interzisă spargerea rotilor
 - Interzis deschiderea focului daca se predau
 - Interzis deschiderea focului fara un motiv bine intemeiat
 {% hint style="info" %}
