@@ -22,7 +22,6 @@ Vehicle Deathmatch reprezintă lovirea unei persoane cu un autovehicul fără un
 * 🚫 Uciderea unui jucator cu un vehicul.
 {% hint style="info" %}
 Se exclude atunci cand singura ta scapare este lovirea jucatorului ca apoi sa poti scapa!
-**NU UCIDEREA SAU MULTIPLE LOVITURI**
 {% endhint %}
 
 ## 🚙 Car-Ram (CR)
