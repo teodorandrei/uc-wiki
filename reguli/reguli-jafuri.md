@@ -30,7 +30,7 @@ Respectarea acestor reguli este obligatorie pentru toți jucătorii.
 - Sedii ale poliției
 - Spital
 - Safezone
-- Zone crafting
+- Drug Labs
 - Zone cules
 
 ## 📓Condiții pentru jefuire
