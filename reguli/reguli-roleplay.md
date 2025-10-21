@@ -179,7 +179,9 @@ Tipuri de comportament in momentul conducerii unui autovehicul care nu respecta 
 
 ## 👮‍♂️ Raid la Sectia de Politie
   ***Cu ce motiv poate alege o mafie să dea RAID la secția de poliție şi ce condiţii trebuie sa îndeplineasca?***
+{% hint style="info" %}
  Pentru ştergerea anumitor informaţii deţinute de poliţie sau pentru capturarea unui Chestor. Pentru a putea da RAID trebuie să fie minim 4 membrii din mafie dintre care unul sa fie liderul sau un co-lider.
+ {% endhint %}
 
 ## 👮‍♂️ Reguli cu privire la raid
 {% hint style="info" %}
@@ -192,7 +194,7 @@ Pentru ştergerea anumitor informaţii deţinute de poliţie sau pentru capturar
 {% endhint %}
 
 {% hint style="danger" %}
-  Aveți nevoie de aprobarea unui Administrator+ pentru a anunța ambele părți despre acțiunea ce urmează să se desfășoare.
+Aveți nevoie de aprobarea unui Administrator+ pentru a anunța ambele părți despre acțiunea ce urmează să se desfășoare.
   Trebuie să fie minimum cinci polițiști pe tură pentru ca acțiunea să fie aprobată.
 {% endhint %}
 
