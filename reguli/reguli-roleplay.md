@@ -194,13 +194,13 @@ Aveți nevoie de aprobarea unui Administrator+ pentru a anunța ambele părți d
   Trebuie să fie minimum cinci polițiști pe tură pentru ca acțiunea să fie aprobată.
 {% endhint %}
 
-## Raid organizație către altă organizație
+## 🥷 Raid organizație către altă organizație
 
 ***Cu ce motiv poate alege o mafie să dea RAID unei alte mafii?***
 {% hint style="info" %}
  În cazul în care dorește să răpească un membru important din mafia la care vrea să dea RAID, pentru a-i putea da Character Kill (CK) adică un lider sau co-lider.
 {% endhint %}
 
-## Interactiunea cu persoanele
+## 👨 Interactiunea cu persoanele
 
 - Maxim 60 de minute, după eşti obligat să întrebi pe chat dacă persoana respectivă permite Roleplay mai lung de 1 ora.
