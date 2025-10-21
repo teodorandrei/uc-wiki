@@ -178,21 +178,24 @@ Tipuri de comportament in momentul conducerii unui autovehicul care nu respecta 
 - În timpul unui interogatoriu, polițistul are dreptul de a vă pune trei întrebări. Astfel, persoana interogată este obligată să răspundă corect la cel puțin o întrebare.
 
 ## 👮‍♂️ Raid la Sectia de Politie
-  ### Cu ce motiv poate alege o mafie să dea RAID la secția de poliție şi ce condiţii trebuie sa îndeplineasca ?
+  ***Cu ce motiv poate alege o mafie să dea RAID la secția de poliție şi ce condiţii trebuie sa îndeplineasca?***
  Pentru ştergerea anumitor informaţii deţinute de poliţie sau pentru capturarea unui Chestor. Pentru a putea da RAID trebuie să fie minim 4 membrii din mafie dintre care unul sa fie liderul sau un co-lider.
 
-   ### Cu ce motiv poate alege o mafie să dea RAID unei alte mafii ?
+## 👮‍♂️ Reguli cu privire la raid
+{% hint style="info" %}
+  ***Cu ce motiv poate alege o mafie să dea RAID unei alte mafii?***
  În cazul în care dorește să răpească un membru important din mafia la care vrea să dea RAID, pentru a-i putea da Character Kill (CK) adică un lider sau co-lider.
+ {% endhint %}
 
+{% hint style="info" %}
+Pentru ştergerea anumitor informaţii deţinute de poliţie sau pentru capturarea unui Chestor.
+{% endhint %}
 
 {% hint style="danger" %}
   Aveți nevoie de aprobarea unui Administrator+ pentru a anunța ambele părți despre acțiunea ce urmează să se desfășoare.
   Trebuie să fie minimum cinci polițiști pe tură pentru ca acțiunea să fie aprobată.
 {% endhint %}
 
-{% hint style="info" %}
-Pentru ştergerea anumitor informaţii deţinute de poliţie sau pentru capturarea unui Chestor.
-{% endhint %}
 
 ## Interactiunea cu persoanele
 
