@@ -49,93 +49,151 @@ Player-Kill reprezintă omorârea unui jucător care nu își mai aduce aminte d
 
 Character Kill este un proces în care un personaj își pierde identitatea și toată influența acumulată pe server.
 
-**Situații CK:**
-* 🔪 Trădarea unei organizații ilegale (mafie).
-* 👮 Închisoare pe viață. (acumularea a cinci caziere neplătite).
-* 👑 Decizie luată de către membru High Staff in urma unui roleplay mai complex.
-* 👺 Se poate face cerere de CK, de catre o mafie cand jucatorul respectiv (jefuitor) a fost prins de 3 ori la jefuit intr-un timp foarte scurt. (CNP)
+### Situații CK:
 
-{% hint style="info" %}
-Este strict interzisă distribuirea averii unui jucător care primește CK!.
+* 🔪 Trădarea unei organizații ilegale (mafie);
+* 👮Închisoare pe viață. (acumularea a cinci caziere neplătite);
+* 👑 Decizie luată de către Sindicat sau membru High Staff.
+* 🥷🏽 Se poate face cerere de CK de catre un membru de familie cand jucatorul respectiv (jefuitor) a fost prins de 3 ori la jefuit. (CNP)
+
+{% hint style="danger" %}
+**ATENȚIE**: Este strict interzisă distribuirea averii unui jucător care primește CK!;
+
 Orice încercare de a lăsa averea la altcineva se va sancționa cu **BAN PERMANENT**.
 {% endhint %}
 
-## 💰 Rob & Kill (RK)
+## 💰 Rob & Kill
 
 Rob & Kill reprezintă jefuirea unui jucător și, ulterior, omorârea acestuia.
 
-**De retinut**:
-* ✅ Permis doar dacă victima a inițiat conflictul.
-* ⚠️ Necesită context roleplay valid.
+### Reguli:
+
+* ✅ Permis doar dacă victima a inițiat conflictul;
+* ⚠️ Necesită context roleplay valid;
 * ❌ Interzis în zone safe/publice.
 
-## 🔫 Kill & Rob (KR)
+## 🔫 Kill & Rob
 
 Kill & Rob reprezintă uciderea unui jucător și, ulterior, jefuirea acestuia.
 
-**De retinut**:
+### Reguli:
+
 * ✅ Permis doar prin realizarea unui minim de roleplay.
 
 {% hint style="info" %}
-Întotdeauna oferiți o șansa de cooperare înainte de a recurge la violență!
+**SFAT**: Întotdeauna oferiți șansa de cooperare înainte de a recurge la violență!
 {% endhint %}
 
-## 📦 Drop & Kill (DK)
+## 📦 Drop & Kill
 
 Drop & Kill x Search & Kill reprezintă forțarea unui jucător să arunce pe jos diferite obiecte sau dupa ce a fost perchezitionat, uciderea acestuia.
-
-**De retinut**:
-* ❌ Daca jucatorul a fost perchezitionat si nu are nimic la el, este interzisa uciderea acestuia! 
-* ✅ Se poate ucide respectivul doar dacă nu se CONFORMA (NF/ PG/ BOMBARDIER/ ETC).
+Se poate ucide respectivul doar dacă nu se CONFORMA (NF/ PG/ BOMBARDIER/ ETC).
 
 ## 🔞 Roleplay Scârbos (RS)
 
-Roleplay-ul Scârbos reprezintă simularea acțiunilor cu tentă sexuală sau scârboase.
-Necesită acordul explicit al tuturor participanților!
+Roleplay-ul Scârbos reprezintă simularea acțiunilor cu tentă sexuală sau scârboase. Necesită acordul explicit al tuturor participanților!
 
-**De retinut:**
-* ✅ Cererea acordului este obligatorie (puteti intreba pe chat globat, /me , daca accepta acest tip de roleplay).
+### Important:
+
+* ✅ Cererea acordului este obligatorie;
 * 🎫 Poate fi întrerupt prin realizarea unui ticket în funcție de gravitate.
+
+## 🚓 Cop-Bait (CB)
+
+Reprezintă instigarea organelor de poliție prin metode IC cu scopul de a le atrage atenția și de a provoca urmăriri doar pentru propriul amuzament.
+
+{% hint style="warning" %}
+#### ATENȚIE!
+
+Orice formă de provocare intenționată a poliției este considerată COP BAIT.
+
+* Drift sau burnout în fața secției de poliție;
+* Apelurile false către poliție doar pentru divertisment;
+* Trecerea intenționată pe culoarea roșie a semaforului când un echipaj de poliție sau un polițist este în apropiere.
+{% endhint %}
 
 ## 🗣️ Provoking (PR)
 
 Provoking reprezintă provocarea sau instigarea la ceartă a unui jucător.
+
+**ATENȚIE**: Evitați provocările nejustificate!
+
+## 😴 AFK
+
 {% hint style="info" %}
-Evitați provocările nejustificate!
+* Interzis in zone populate sa stati mai mult de 2 minute.
+* Daca esti politist/medic/mecanic on-duty, interzis sa stai mai mult de 5 minute.
+* Nu aveti voie sa interactionati cu un jucator Afk.
+* Daca jucatorul intra in Afk pe durata roleplay-ului, acesta poate fii reclamat, urmand incetarea respectivului roleplay.
+* Auto-clicker sau orice alta forma de blocare a tastelor sau de stimulare a miscarii, fara a fii prezent,este strict interzisa.
 {% endhint %}
 
-## 😵 Comă (DEAD)
-
+## 😵 Comă
+{% hint style="warning" %}
 Comă reprezintă momentul în care ești "leșinat" din diverse motive.
+{% endhint %}
 
-**De retinut:** 
-- Nu poți vedea sau auzi în jurul tău.
-- Interzisă folosirea telefonului.
-- Interzisă vorba.
-- Poți primi ajutor medical (cu excepția schimburilor de focuri).
+{% hint style="danger" %}
+**IMPORTANT**: 
+{% endhint %}
 
-## 🌊 Olimpic Swim (OSW)
+- Nu poți vedea sau auzi în jurul tău
+- Interzisă folosirea telefonului
+- Interzisă vorba
+- Poți primi ajutor medical (cu excepția schimburilor de focuri)
 
-Momentul in care inoti pe o perioada indelungata de timp fara pauze.
-* Se sanctioneaza cu Power-Gaming (PG).
+## 🪪 Fake Cop/Medic
 
-## 🚧 Condus Non-Roleplay (CNR)
+* 🚫 Interzis sa te imbraci ca un politist sau medic daca nu faci parte din factiunea respectiva.
 
-**🚨 Off Road**
-* 🚫 Conducerea unui autovehicul pe drumuri neasfaltate/forestiere cu garda joasa. 
-* ✅ Viteza maxima permisa 60-80 km/h, si in cazuri urgente, pana la 80-100 km/h.
+## 🌊 Olimpic Swim
+* Momentul in care inoti pe o perioada indelungata de timp fara pauze.
+* Se sanctioneaza cu Power Gaming.
 
-**🚨 Off Road Extrem**
+## 🚧 Condus Non-Roleplay
+
+{% hint style="info" %}
+Tipuri de comportament in momentul conducerii unui autovehicul care nu respecta regulile RolePlay.
+{% endhint %}
+
+### 🚨 Off Road
+* 🚫 Conducerea unui autovehicul pe drumuri neasfaltate/forestiere cu garda joasa. Viteza maxima permisa 50-60 km/h, si in cazuri urgente, pana la 90-100 km/h.
+
+### 🚨 Off Road Extrem
 * 🚫 Urcarea pe munti sau pe drumuri nemarcate cu vehicule ce nu sunt de tip off-road. 
-* ✅ Viteza maxima indiferent de situatie, fiind de 40-60 km/h.
+* ✅ Viteza maxima indiferent de situatie, fiind de 60-70 km/h.
 
-**💥 Accidente**
+### 💥 Accidente
 * 🚫 Intrarea frontala in alt vehicul cu motivul opririi acesteia, indiferent de tipul vehiculului tau.
 
-**🛑In Oras**
-* 🚫 Circularea cu peste 200km/h in zone populate/publice.
-* 🚫 Circularea pe contrasens, pe autostrada sau pe strazi circulate des fara un motiv IC bine intemeiat.
-
-**🛑 Pit Stop**
-* 🚫 Efectuarea manevrei de tip Pit Stop la viteze mai mari de 120-150 km/h.
+### 🛑 Pit Stop
+* 🚫 Efectuarea manevrei de tip Pit Stop la viteze mai mari de 140-150 km/h.
 * 🚫 Efectuarea manevrei de tip Pit Stop in urmarirea unei motociclete/biciclete.
+
+### 🚦 Viteza in oras
+* 🚫 Conducerea unui autovehicul cu o viteza mai mare de 200 km/h, exceptie fac situatiile justificate - urmariri,pericole.
+
+
+## 🕵️‍♂️ Regula interogatoriu
+- În timpul unui interogatoriu, polițistul are dreptul de a vă pune trei întrebări. Astfel, persoana interogată este obligată să răspundă corect la cel puțin o întrebare.
+
+## 👮‍♂️ Raid la Sectia de Politie
+  ### Cu ce motiv poate alege o mafie să dea RAID la secția de poliție şi ce condiţii trebuie sa îndeplineasca ?
+ Pentru ştergerea anumitor informaţii deţinute de poliţie sau pentru capturarea unui Chestor. Pentru a putea da RAID trebuie să fie minim 4 membrii din mafie dintre care unul sa fie liderul sau un co-lider.
+
+   ### Cu ce motiv poate alege o mafie să dea RAID unei alte mafii ?
+ În cazul în care dorește să răpească un membru important din mafia la care vrea să dea RAID, pentru a-i putea da Character Kill (CK) adică un lider sau co-lider.
+
+
+{% hint style="danger" %}
+  Aveți nevoie de aprobarea unui Administrator+ pentru a anunța ambele părți despre acțiunea ce urmează să se desfășoare.
+  Trebuie să fie minimum cinci polițiști pe tură pentru ca acțiunea să fie aprobată.
+{% endhint %}
+
+{% hint style="info" %}
+Pentru ştergerea anumitor informaţii deţinute de poliţie sau pentru capturarea unui Chestor.
+{% endhint %}
+
+## Interactiunea cu persoanele
+
+- Maxim 60 de minute, după eşti obligat să întrebi pe chat dacă persoana respectivă permite Roleplay mai lung de 1 ora.
