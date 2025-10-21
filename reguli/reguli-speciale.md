@@ -175,3 +175,10 @@ Este interzis utilizarea modurilor de grafica care iti pot oferii avantaje in pl
 * Bullet tracer (modificarea modului prin care vezi gloantele).
 
 * Se sanctioneaza cu Power Gaming.
+
+## Mafia Warn
+- Aceste sancțiuni pot fi eliminate doar prin plata acestora.
+
+{% hint style="info" %}
+Mafia Warn se primește în momentul în care se produce un fail din partea unei grupări mafiote într-un roleplay, iar la acel eveniment participă un număr minim de patru persoane din același grup.
+{% endhint %}

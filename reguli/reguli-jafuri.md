@@ -132,3 +132,4 @@ Nesubordonarea la cuvintele unui jucator cu arma in mana duce la sanctiune (Non-
 - Comportament realist când sunt prinși
 - La jaf aveți voie **maxim 4 pe clădiri**
 - La jaf aveți voie **maxim 3 in patrulă**
+- Nu este permisă alianța între mafii.

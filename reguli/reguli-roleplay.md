@@ -4,6 +4,10 @@
 Aceste reguli definesc comportamentul corect în cadrul roleplay-ului și asigură o experiență imersivă pentru toți jucătorii.
 {% endhint %}
 
+## 🔫 Deathmatch (DM)
+
+Momentul în care un grup de minim 2 sau mai multe persoane încep să se împuște de parcă ar fi într-un joc video.
+
 ## 💀 Random Deathmatch (RDM)
 
 Random Deathmatch reprezintă atacarea sau uciderea unui jucător fără un minim de roleplay sau motiv întemeiat. Acest comportament este strict interzis!
@@ -30,7 +34,7 @@ Car-Ram reprezintă momentul în care doi sau mai mulți jucători se lovesc cu 
 
 ## ⚔️ Revenge Kill (RK)
 
-Revenge Kill reprezintă momentul când un jucător îl omoară pe altul, iar după ce primește respawn, se întoarce după același jucător cu scopul de a-l omorî în mai puțin de jumătate de oră.
+ Revenge Kill se referă la actul prin care un jucător, după ce a fost eliminat de un alt participant, revine in zona respectiva pentru a se răzbuna, desfășurând acțiuni violente împotriva persoanei care l-a eliminat anterior.
 
 ### De Reținut:
 
