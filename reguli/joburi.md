@@ -1,8 +1,6 @@
-# Joburi
+## 💼 JOBURI LEGALE
 
-## 💼 Joburile legale 
-
-### 🪛 Electrician
+### ⚡ Electrician
 
 {% hint style="info" %}
 - Ore necesare 0
@@ -65,22 +63,47 @@
 - Minim level experienta 0
 {% endhint %}
 
-### ⛽ Trucker
+### 🚛 Trucker
 
 {% hint style="info" %}
 - Ore necesare 20
-- Minim level experienta 20
+- Minim level experienta 0
 {% endhint %}
 
 ### ✈️ Pilot
 
 {% hint style="info" %}
 - Ore necesare 20
-- Minim level experienta 20
+- Minim level experienta 0
 {% endhint %}
 
-## 💼 Joburile ilegale 
+## 🍃 JOBURI ILEGALE
+
+### 👨🏻‍💻 Hacker
 
 {% hint style="info" %}
-- Ore necesare 100+
+- Ore necesare 100
+- Minim level experienta 0
 {% endhint %}
+
+### 🍁 Marijuana
+
+{% hint style="info" %}
+- Ore necesare 200
+- Minim level experienta 0
+{% endhint %}
+
+### 🧪 PCP
+
+{% hint style="info" %}
+- Ore necesare 300
+- Minim level experienta 0
+{% endhint %}
+
+### 🌿 Etnobotanice
+
+{% hint style="info" %}
+- Ore necesare 400
+- Minim level experienta 0
+{% endhint %}
+

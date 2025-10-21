@@ -6,41 +6,38 @@ Aceste reguli stau la baza funcționării server-ului nostru. Respectarea acesto
 
 ## 🎭 Roleplay (RP)
 
-{% hint style="success" %}
+{% hint style="info" %}
 Roleplay-ul reprezintă simularea vieții reale în joc prin intermediul personajului tău. Acțiunile întreprinse trebuie să fie cât mai realiste și să respecte regulile jocului.
 {% endhint %}
 
-### Ce înseamnă un RP bun:
-
-* Acțiuni realiste și logice;
-* Adoptarea unui comportament natural;
-* Interacțiuni credibile;
+**Ce înseamnă un RP bun**:
+* Acțiuni realiste și logice.
+* Adoptarea unui comportament natural.
+* Interacțiuni credibile.
 * Respect față de ceilalți jucători.
 
-## 🎭 Refuz Roleplay
+## 🎭 Refuz Roleplay (RR)
 
 Refuzul de a participa sau coopera într-o situație de roleplay este strict interzis. Aceasta presupune acțiuni precum ignorarea comenzilor primite într-un roleplay, refuzul de a răspunde la inițiative RP legitime sau pur și simplu evitarea intenționată a implicării.
 
-### De reținut:
-
+{% hint style="info" %}
 * Indiferent de natura roleplay-ului (jaf, arestare, negociere, conflict etc.), odată ce ai intrat într-o situație IC, ești obligat să o duci până la capăt într-un mod realist și responsabil.
+{% endhint %}
 
 ## 🎭 Fail Roleplay (FRP)
 
-{% hint style="success" %}
+{% hint style="info" %}
 Fail Roleplay consta in nepotrivirea anumitor actiuni cu context Roleplay.
 {% endhint %}
 
-### Exemple de Fail Roleplay:
-* Daca viata medicului este in pusa in pericol.
-* Daca doresti sa tii pe cineva ostatic in roleplay si il jefuiesti. 
+**Exemple de Fail Roleplay:**
 * Daca vin negociatori si ii jefuiesti/ucizi.
 * Daca faci ilegalitati cu masinile joburilor legale.
-* Daca jefuiesti un vehicul aflat in afara zonelor de jefuit si intre orele 19:00-07:00. (se sanctioneaza cu FRP - jefuire inafara zonei rosii)
 * Daca faci pit-stop la o masina/motor pe autostrada/strada publica.
 * Daca i-au pe cineva in masina de buna voie (de ex. de la CNN) si il duc pe zone rau famate.
+* Daca omori echipajele medicale doar ca sunt pe zone rau famate, sau deduci ca vrea sa ajute pe cineva care este in coma.
 * Daca omori in zona rau famata fara un minim de rolepaly (de ex. il urmaresti si dupa 3 secunde ii zici sa se dea jos si il omori).
-
+  
 ## 👤 In-Character (IC)
 
 Reprezintă comportamentul și acțiunile personajului în joc.
@@ -49,39 +46,18 @@ Reprezintă comportamentul și acțiunile personajului în joc.
 
 Reprezintă comportamentul și acțiunile jucătorului, în afara personajului.
 
-
-## ⚠️ Non-Fear (NF)
-
-Non-Fear reprezintă momentul în care nu simulezi frica în situații care ar trebui să provoace teamă. Acest comportament este strict interzis!
-
-{% hint style="info" %}
-Non-Fear poate fii de doua tipuri:
-* Agresiv - lipsa stimularii fricii de moarte.
-* Pasiv - lipsa stimularii fricii de autoritate (politie,puscarie,tazer etc) sau a fricii fata de grupari mai mari.
-{% endhint %}
-
-### Exemple de NF interzise:
-
-* 🚫 Injurii la adresa poliției când ești arestat;
-* 🚫 Faci apeluri false către poliție;
-* 🚫 Te comporți agresiv când cineva are arma îndreptată spre tine sau încerci să fugi. 
-
-⚠️ **IMPORTANT**: Nu aveți voie să luați la mișto sau să aveți aroganțe la adresa organelor de poliție!
-
 ## 👑 Regula de Aur (RDA)
 
 Regula de Aur vizează comportamentul jucătorilor pe server. Orice încălcare va fi sancționată sever!
 
-### Sancțiuni:
+**Sancțiuni**:
+* Ban temporar/permanent sau 2 warn-uri In-Game (în funcție de gravitate)
 
-* Ban permanent sau 2 warn-uri In-Game (în funcție de gravitate)
-
-### Este strict interzis:
-
-* Discriminarea sub orice formă;
-* Jigniri și insulte;
-* Comportament toxic;
-* Roleplay nepotrivit fără acord;
+**Este strict interzis**:
+* Discriminarea sub orice formă.
+* Jigniri și insulte.
+* Comportament toxic.
+* Roleplay necalitativ.
 * Comportament de bombardier (instiga la cearta).
 * Nerespectarea uniformei Staff.
 
@@ -89,36 +65,63 @@ Regula de Aur vizează comportamentul jucătorilor pe server. Orice încălcare 
 **NOTĂ**: Roleplay-ul de tip sexual/scârbos/divers necesită acordul explicit al tuturor participanților!
 {% endhint %}
 
+## ⚠️ Non-Fear (NF)
+
+Non-Fear reprezintă momentul în care un jucător nu simulează frica într-o situație Roleplay.
+Dacă un jefuitor are asupra lui o bâtă sau o rozetă, iar victima deține o armă de foc, nu se consideră încălcare a regulii Non-Fear în momentul în care victima scoate arma de foc.
+
+**Exemple de Non-Fear**:
+* In situatiile in care mergeti la actiune intr-un mod mixt/combinat (oameni ce apartin de organizatii/mafii + civili, sau civili + civili), iar un civil ce apartine grupului vostru (sageata, prietenii ic, etc) este luat ostatic (/th), daca trageti asupra persoanei ce il are ostatic se va considera non-fear.
+{% hint style="info" %}
+Luam aceasta decizie deoarece se abuza de acest aspect fara sa existe vreo pierdere.
+{% endhint %}
+* Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.
+* Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
+* Se consideră Non-Fear in momentul in care chiar daca esti intr-o zona publica , tu abuzezi de această regulă si incepi sa vorbesti neadecvat cu alte persoane stiind ca regulamentul cumva te salvează ca esti in acea zona.
+* Se consideră Non-Fear atunci cand după un schimb de focuri sau atunci cand cineva a tras dupa tine, dar tu crezi că s-a creat un FAIL acolo, te intorci doar ca să iei ID-uri sau sa ii "certi" că de ce trag după tine etc.
+* Acel moment cand un membru din organizatia ta este luat ca ostatic si tu sau oricare alt membru nu respectă faptul ca aveti un om luat ostatic.
+* În timpul unei percheziții efectuate cu scopul de a jefui, este considerat Non-Fear dacă victima se întoarce și îl atacă pe jefuitor în timp ce este percheziționată/jefuită.
+* Se consideră Non-Fear in momentul in care nu reprezinti frica de autoriate (Politie, Puscarie, Tazer, etc).
+
+{% hint style="info" %}
+⚠️ **IMPORTANT**: Nu aveți voie să luați la mișto sau să aveți aroganțe la adresa organelor de poliție!
+{% endhint %}
+
+## ⚠️ Cop-Fear (CF)
+
+Cop-Fear reprezintă momentul in care nu reprezinți frică față de autoriate (Politie, Puscarie, Tazer, etc).
+* Se interzice luarea în derâdere sub orice formă a polițiștilor. (luare la mișto, bătaia de joc, comportament necorespunzator)
+* Se interzice Cop-Bait-ul, care reprezintă instigarea organelor de poliție în mod intenționat. (drifturi lângă un polițist, în fața secției de poliție, trecerea pe culoarea roșie a semaforului în mod intenționat atunci când un polițist este în preajmă).
+* Se interzice ca odată ce ajungeti la celule, chiar inainte sa fiti procesati, să vă tocmiți cu organele PD pentru a cere reducere la amenda/sentinta.
+* Se interzice scoaterea placutelor de inmatriculare si folosirea vehiculului in zonele publice fara un motiv bine intemeiat sau un context RP favorabil se va considera Cop-Bait si veti fi sanctionati daca stati fara numere de inmatriculare fara un motiv bun.
+{% hint style="info" %}
+AVETI GRIJA, MOTIV BUN **NU ESTE**: CA SA NU-MI FACA POLITIA MANDAT CA FAC DRIFTURI LA FLEECA/PRIMARIE/URMARIRI!!!
+{% endhint %}
+
 ## 🎮 Power-Gaming (PG)
 
 Power-Gaming reprezintă folosirea unor puteri supranaturale sau neacordarea unor șanse egale în roleplay.
 
-### Acțiuni Interzise:
-
-* ❌ Folosirea stației după confiscare;
-* ❌ Folosirea stației in timpul comei (cand esti mort);
-* ❌ Folosirea animatiilor in timpul comei (cand esti mort);
-* ❌ Folosirea animatiilor nepotrivite (de ex. Fly, Trash, etc) in zone publice;
-* ❌ Blocarea căilor de acces pentru a obține avantaj;
+**Acțiuni Interzise**:
+* ❌ Folosirea stației după confiscare.
+* ❌ Folosirea stației in timpul comei (cand esti mort).
+* ❌ Folosirea animatiilor in timpul comei (cand esti mort).
+* ❌ Folosirea animatiilor nepotrivite (de ex. Fly, Trash, etc) in zone publice.
+* ❌ Blocarea căilor de acces pentru a obține avantaj.
 * ❌ Folosirea excesivă a comenzilor /me.
 
 ## 🔍 Meta-Gaming (META)
 
 Meta-Gaming reprezintă folosirea informațiilor din afara jocului pentru a obține avantaje în joc.
 
-### Exemple de META interzise:
-
-* Utilizarea informațiilor obținute din Discord în cadrul jocului;
-* Divulgarea sau folosirea informațiilor OOC (Out of Character) în scopuri IC (In Character);
+**Exemple de META interzise**:
+* Utilizarea informațiilor obținute din Discord în cadrul jocului.
+* Divulgarea sau folosirea informațiilor OOC (Out of Character) în scopuri IC (In Character).
 * Aplicarea cunoștințelor din viețile anterioare ale personajului în prezentul roleplay-ului.
+{% hint style="info" %}
+Orice formă de Meta-Gaming va fi sancționată sever!
+{% endhint %}
 
-**ATENȚIE**: Orice formă de Meta-Gaming va fi sancționată sever!
-
-## 💬 Mixing
+## 💬 Mixing (MIX)
 
 Mixing-ul reprezintă transmiterea informațiilor OOC (Out of Character) cu cele IC (In-Character) sau invers.
-
-## 💬 Mixing Critic
-
-Acesta se sancționează cu 2 warn-uri, în funcție de gravitatea situației.
-
