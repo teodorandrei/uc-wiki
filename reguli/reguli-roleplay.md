@@ -202,5 +202,6 @@ Aveți nevoie de aprobarea unui Administrator+ pentru a anunța ambele părți d
 {% endhint %}
 
 ## 👨 Interactiunea cu persoanele
-
+{% hint style="info" %}
 - Maxim 60 de minute, după eşti obligat să întrebi pe chat dacă persoana respectivă permite Roleplay mai lung de 1 ora.
+{% endhint %}
