@@ -185,10 +185,6 @@ Tipuri de comportament in momentul conducerii unui autovehicul care nu respecta 
 
 ## 👮‍♂️ Reguli și informații cu privire la raid
 
-{% hint style="info" %}
-Pentru ştergerea anumitor informaţii deţinute de poliţie sau pentru capturarea unui Chestor.
-{% endhint %}
-
 {% hint style="danger" %}
 Aveți nevoie de aprobarea unui Administrator+ pentru a anunța ambele părți despre acțiunea ce urmează să se desfășoare.
   Trebuie să fie minimum cinci polițiști pe tură pentru ca acțiunea să fie aprobată.
